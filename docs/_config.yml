@@ -1,0 +1,26 @@
+remote_theme: pmarsceill/just-the-docs
+title: LinkedIn Learning 
+logo: "/../../assets/img/LiLLogoBlack.png"
+titles_from_headings:
+  strip_title: false
+footer_content: "Supercharge your onboarding and developer training with GitHub Codespaces - by LinkedIn Learning"
+tagline: GitHub Universe Workshop 
+
+
+
+
+just_the_docs:
+
+
+
+
+# Personalize the colours in your website. Colour values can be any valid CSS colour
+
+navbar-col: "#9AB8DB"
+
+# For any extra visual customization, 
+# you can include additional CSS files in every page on your site. 
+# List any custom CSS files here
+
+site-css:
+  - "/assets/css/custom-styles.css"
