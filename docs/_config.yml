@@ -1,6 +1,6 @@
 remote_theme: pmarsceill/just-the-docs
 title: Instructions for Universe conference workshop 
-logo: "/../../assets/img/LiLLogoBlack.png"
+logo: "/../assets/img/LiLLogoBlack.png"
 titles_from_headings:
   strip_title: false
 footer_content: "Supercharge your onboarding and developer training with GitHub Codespaces - by LinkedIn Learning"
