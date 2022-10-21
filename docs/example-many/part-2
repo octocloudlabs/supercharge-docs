@@ -2,5 +2,7 @@
 layout: default
 title: Part 2
 nav_order: 2
-parent: Many children example
+parent: Lab with subpages
 ---
+
+## Part 2

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Many children example
+title: Lab with subpages
 nav_order: 4
 has_children: true
 parent: Step-by-step instructions
