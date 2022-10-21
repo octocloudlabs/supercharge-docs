@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Section 1: Use Codespaces
+title: 1. Use Codespaces
 nav_order: 1
-parent: docs
+parent: Step-by-step instructions
 ---
