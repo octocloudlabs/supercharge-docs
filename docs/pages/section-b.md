@@ -5,13 +5,6 @@ parent: Step-by-step instructions
 nav_order: 2
 ---
 
----
-layout: default
-title: 1. Use Codespaces
-nav_order: 1
-parent: Step-by-step instructions
----
-
 ## How LinkedIn Learning uses Codespaces
 
 Codespaces is ...

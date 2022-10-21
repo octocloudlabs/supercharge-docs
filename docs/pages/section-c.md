@@ -5,13 +5,6 @@ parent: Step-by-step instructions
 nav_order: 3
 ---
 
----
-layout: default
-title: 1. Use Codespaces
-nav_order: 1
-parent: Step-by-step instructions
----
-
 ## Customizing Codespaces
 
 Codespaces is ...
