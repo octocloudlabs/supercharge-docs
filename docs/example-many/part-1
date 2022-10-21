@@ -3,6 +3,7 @@ layout: default
 title: Part 1
 nav_order: 1
 parent: Lab with subpages
+grand_parent: Step-by-step instructions
 ---
 
 ## Part 1
