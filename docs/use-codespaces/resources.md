@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2. Linked Learning Course
+title: Resources
+nav_order: 4
 parent: Step-by-step instructions
-nav_order: 2
 ---
