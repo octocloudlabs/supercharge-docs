@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Start Here
+title: Step-by-step instructions
+has_children: true
 nav_order: 1
 ---
 ## Start here
