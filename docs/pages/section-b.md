@@ -1,8 +1,5 @@
 ---
-layout: default
-title: 2. Linked Learning Course
-parent: Step-by-step instructions
-nav_order: 2
+id: section-b
 ---
 
 ## How LinkedIn Learning uses Codespaces

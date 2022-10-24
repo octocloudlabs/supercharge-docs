@@ -1,5 +1,20 @@
 remote_theme: LinkedInLearning/jekyll-theme-lil-docs@main
 title: Workshop Instructions 
+version: false
 
+sidebar:
+  - label: Use Codespaces
+    children:
+      - section-c
+      - child-b
+      - child-b
+  - label: LinkedIn courses and Codespaces
+    children:
+      - child-a
+      - getting-started
+  - label: Customize Codespaces
+    children:
+      - child-a
+      - getting-started
 
 
