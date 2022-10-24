@@ -1,12 +1,7 @@
 ---
-layout: default
-title: Lab with subpages
-nav_order: 4
-has_children: true
-parent: Step-by-step instructions
+id: start-4
 ---
-
-## Many children
+## Use the CLI
 
 In this example, the labs are split into many child pages.  Use this idea when you want to elimnate scrolling through the examples. 
 
