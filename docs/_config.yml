@@ -5,16 +5,16 @@ version: false
 sidebar:
   - label: Use Codespaces
     children:
+      - section-a
+      - section-b
       - section-c
-      - child-b
-      - child-b
-  - label: LinkedIn courses and Codespaces
+  - label: LinkedIn courses
     children:
-      - child-a
-      - getting-started
+      - section-a
+      - section-b
   - label: Customize Codespaces
     children:
-      - child-a
-      - getting-started
+      - section-a
+      - section-c
 
 
