@@ -12,11 +12,13 @@ sidebar:
       - start-5
   - label: LinkedIn courses
     children:
-      - section-a
-      - section-b
+      - take-1
+      - take-2
   - label: Customize Codespaces
     children:
-      - section-a
-      - section-c
+      - custom-1
+      - custom-2
+      - custom-3
+      - custom-4
   - resources
 
