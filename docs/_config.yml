@@ -5,9 +5,11 @@ version: false
 sidebar:
   - label: Use Codespaces
     children:
-      - section-a
-      - section-b
-      - section-c
+      - start-1
+      - start-2
+      - start-3
+      - start-4
+      - start-5
   - label: LinkedIn courses
     children:
       - section-a
