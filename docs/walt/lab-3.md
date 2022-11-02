@@ -1,5 +1,5 @@
 ---
-id: walt-3
+id: a-lab-3
 ---
 
 ## Explore VS Extensions

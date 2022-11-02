@@ -1,8 +1,8 @@
 ---
-id: walt-1
+id: b-lab-1
 ---
 
-## What's ahead
+## Topic 1
 
 Codespaces is ...
 Write some explanatory text here.

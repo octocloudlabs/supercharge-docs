@@ -6,20 +6,20 @@ sidebar:
   - welcome
   - label: Manage Codespaces
     children:
-      - walt-1
-      - walt-2
-      - walt-3
-      - walt-4
-      - walt-5
+      - a-lab-1
+      - a-lab-2
+      - a-lab-3
+      - a-lab-4
+      - a-lab-5
   - label: LinkedIn Learning Lessons
     children:
-      - morten-1
-      - morten-2
+      - b-lab-1
+      - b-lab-2
   - label: Customize Codespaces
     children:
-      - ray-1
-      - ray-2
-      - ray-3
-      - ray-4
+      - c-lab-1
+      - c-lab-2
+      - c-lab-3
+      - c-lab-4
   - resources
 

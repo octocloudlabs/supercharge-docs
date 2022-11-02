@@ -1,5 +1,5 @@
 ---
-id: walt-2
+id: a-lab-2
 ---
 
 ## Explore VS Code

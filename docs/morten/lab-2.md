@@ -1,5 +1,5 @@
 ---
-id: morten-2
+id: b-lab-2
 ---
 
 ## Topic 2

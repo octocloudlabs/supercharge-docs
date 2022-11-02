@@ -1,11 +1,9 @@
 ---
-id: morten-1
+id: a-lab-4
 ---
+## Use the CLI
 
-## topic 1
-
-Codespaces is ...
-Write some explanatory text here.
+In this example, the labs are split into many child pages.  Use this idea when you want to elimnate scrolling through the examples. 
 
 ## Lab Instructions
 
@@ -19,3 +17,8 @@ Write some explanatory text here.
 
 * Tip:  Some useful information here
 * Tip:  More tips please
+
+ 
+ 
+
+  
