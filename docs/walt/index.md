@@ -2,8 +2,7 @@
 id: a-lab-1
 ---
 <link rel="stylesheet" href="/assets/css/custom-styles.css" />
-
-## Lab A1
+## Lab 
 
 ### A. Navigate to the repository
 
@@ -14,22 +13,26 @@ id: a-lab-1
 <img src='/assets/img/a-lab-01-01.png' alt="lab image" class="img-lab" >
 
 ### B. Wait! 
-  Creating the codespace takes a minute or so. That's because there is a lot of actions happening. Here's the details if you are interested.
+
+  Creating the codespace takes a minute or so. 
+	<img src='/assets/img/a-lab-01-02.png' alt="lab image" class="img-lab" >
+	
+	That's because there is a lot of actions happening. Here's the details if you are interested.
 
 
 * A lightweight clone of the repository is created. 
   * This is based on the latest commit.
   * For performance reasons, the full history of the repo is added later.
 * A dedicated VM is allocated.
-  * This VM is setup the default storage 
-  * This VM is setup with default compute resources
+  * This VM is setup with the default storage size (32GB, 64GB etc.)
+  * This VM is setup with the default compute resources (2 core 4GB RAM, 4 core 8GB RAM etc.)
    * These defaults are defined in the repository.
 * A docker container is created on the VM. 
 * The Codespace, the CLI and VS Code editor are configured
   * These are based on settings in the repo configuration files.
   * Finally, all commands specified in the settings file are run. 
   
-<img src='/assets/img/a-lab-01-02.png' alt="lab image" class="img-lab" >
+
 
 ### C. Note the URL change. 
 
