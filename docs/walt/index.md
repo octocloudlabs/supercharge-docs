@@ -8,4 +8,4 @@ id: a-lab-1
 
 2. Find and click the green Code button, then click the small + icon
 
-<img src='/assets/img/a-lab-01-01.png'>
+<img src='/assets/img/a-lab-01-01.png' alt="lab image" style="margin-left:20px">
