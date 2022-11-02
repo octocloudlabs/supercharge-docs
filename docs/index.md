@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Step-by-step instructions
+title: welcome
 has_children: true
 nav_order: 1
 ---
