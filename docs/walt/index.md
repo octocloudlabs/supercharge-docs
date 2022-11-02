@@ -2,16 +2,37 @@
 id: a-lab-1
 ---
 <link rel="stylesheet" href="/assets/css/custom-styles.css" />
-## Navigate to the repository
+
+### A. Navigate to the repository
 
 1. In your browser, navigate to <a href "#" target="_blank">animation repository</a>.
 
-2. Find and click the green Code button, then click the small + icon
+2. Find and click the green Code button, then click the small + icon.  This will create a new Codespace on the default branch (Master).
 
 <img src='/assets/img/a-lab-01-01.png' alt="lab image" class="img-lab" >
 
-3. Step 3
+### B. Wait! 
+  Creating the codespace takes a minute or so. That's because there is a lot of actions happening. Here's the details if you are interested.
 
-<img src='/assets/img/a-lab-01-01.png' alt="lab image" class="img-lab" >
 
+* A lightweight clone of the repository is created. 
+  * This is based on the latest commit.
+  * For performance reasons, the full history of the repo is added later.
+* A dedicated VM is allocated.
+  * This VM is setup the default storage 
+  * This VM is setup with default compute resources
+   * These defaults are defined in the repository.
+* A docker container is created on the VM. 
+* The Codespace, the CLI and VS Code editor are configured
+  * These are based on settings in the repo configuration files.
+  * Finally, all commands specified in the settings file are run. 
+  
+<img src='/assets/img/a-lab-01-02.png' alt="lab image" class="img-lab" >
 
+### C. Note the URL change. 
+
+Checkout the new URL in the browser address bar (it ends with .github.dev). This name is generated from your username, plus a random GitHub generated name.  
+
+https://[username]-improved-robot-pqpjx7p9qvcrw6r.github.dev/
+
+[Go to next lab]
