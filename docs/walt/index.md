@@ -1,7 +1,7 @@
 ---
 id: a-lab-1
 ---
-<link rel="stylesheet" href="assets/css/custom-styles.css" />
+<link rel="stylesheet" href="/assets/css/custom-styles.css" />
 ## Navigate to the repository
 
 1. In your browser, navigate to <a href "#" target="_blank">animation repository</a>.
