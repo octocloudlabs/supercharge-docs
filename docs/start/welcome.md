@@ -2,11 +2,11 @@
 id: welcome
 ---
 
-## What's ahead in this Workshop
+## Welcome
 
 This workshop is divided into three sections.
-1. Manage Codespaces
-2. See how LinkedIn Learning uses Codespaces
+1. Creating and managing Codespaces
+2. Explore how LinkedIn Learning uses Codespaces in video training
 3. Customize Codespaces for your team
 
 ## Manage Codespaces
