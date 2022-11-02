@@ -1,9 +1,11 @@
 ---
-id: start-4
+id: ray-1
 ---
-## Use the CLI
 
-In this example, the labs are split into many child pages.  Use this idea when you want to elimnate scrolling through the examples. 
+## Topic 1
+
+Codespaces is ...
+Write some explanatory text here.
 
 ## Lab Instructions
 

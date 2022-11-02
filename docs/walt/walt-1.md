@@ -1,9 +1,8 @@
 ---
-id: custom-3
+id: walt-1
 ---
 
-
-## Ray 3
+## What's ahead
 
 Codespaces is ...
 Write some explanatory text here.
@@ -20,8 +19,3 @@ Write some explanatory text here.
 
 * Tip:  Some useful information here
 * Tip:  More tips please
-
- 
- 
-
-  

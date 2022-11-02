@@ -3,22 +3,24 @@ title: Workshop Instructions
 version: false
 
 sidebar:
-  - label: Use Codespaces
+  Welcome
+    - start-1
+  - label: Manage Codespaces
     children:
-      - start-1
-      - start-2
-      - start-3
-      - start-4
-      - start-5
-  - label: LinkedIn courses
+      - walt-1
+      - walt-2
+      - walt-3
+      - walt-4
+      - walt-5
+  - label: LinkedIn Learning Lessons
     children:
-      - take-1
-      - take-2
+      - morten-1
+      - morten-2
   - label: Customize Codespaces
     children:
-      - custom-1
-      - custom-2
-      - custom-3
-      - custom-4
+      - ray-1
+      - ray-2
+      - ray-3
+      - ray-4
   - resources
 

@@ -1,5 +1,5 @@
 ---
-id: start-3
+id: walt-3
 ---
 
 ## Explore VS Extensions

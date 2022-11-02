@@ -1,8 +1,8 @@
 ---
-id: custom-1
+id: ray-2
 ---
 
-## Ray 1
+## Topic 2
 
 Codespaces is ...
 Write some explanatory text here.

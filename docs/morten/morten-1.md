@@ -1,8 +1,8 @@
 ---
-id: custom-2
+id: morten-1
 ---
 
-## Ray 2
+## topic 1
 
 Codespaces is ...
 Write some explanatory text here.
@@ -19,8 +19,3 @@ Write some explanatory text here.
 
 * Tip:  Some useful information here
 * Tip:  More tips please
-
- 
- 
-
-  
