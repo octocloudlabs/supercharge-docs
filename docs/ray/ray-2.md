@@ -1,5 +1,5 @@
 ---
-id: ray-2
+id: c-lab-2
 ---
 
 ## Topic 2
