@@ -1,8 +1,7 @@
 ---
 layout: default
-title: welcome
-has_children: true
-nav_order: 1
+id: welcome
+
 ---
 
 ## Welcome
