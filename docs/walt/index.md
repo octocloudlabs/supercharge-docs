@@ -2,11 +2,12 @@
 id: a-lab-1
 ---
 <link rel="stylesheet" href="/assets/css/custom-styles.css" />
+
 ## Lab 
 
 ### A. Navigate to the repository
 
-1. In your browser, navigate to <a href="#" target="_blank">animation repository</a>.
+1. In your browser, navigate to the <a href="#" target="_blank">animation repository</a>.
 
 2. Find and click the green Code button, then click the small + icon.  This will create a new Codespace on the default branch (Master).
 
