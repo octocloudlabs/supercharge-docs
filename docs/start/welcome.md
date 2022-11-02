@@ -1,5 +1,5 @@
 ---
-id: start-1
+id: welcome
 ---
 
 ## What's ahead in this Workshop
