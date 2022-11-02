@@ -3,7 +3,7 @@ title: Workshop Instructions
 version: false
 
 sidebar:
-  Welcome
+  - welcome
     - start-1
   - label: Manage Codespaces
     children:
