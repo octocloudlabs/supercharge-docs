@@ -4,7 +4,6 @@ version: false
 
 sidebar:
   - welcome
-    - start-1
   - label: Manage Codespaces
     children:
       - walt-1
