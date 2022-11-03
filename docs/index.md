@@ -7,9 +7,11 @@ id: welcome
 ## Welcome
 Get ready for the hands-on labs in the **Supercharge your onboarding and developer training with GitHub Codespaces** workshop. 
 
-*Our contention is that using Codespaces means you'll spend less time on local set-up which gives your employees and students more time learning and practicing. Plus it is cloud-based, isolated in-browser development environment that allows for risk-free learning on any machine in seconds.*
+*Our contention is that Codespaces are an invaluable tool for educators and trainer. Using Codespaces means you'll spend less time on local set-up which gives your employees and students more time learning and practicing. Plus it is an isolated in-browser development environment that allows for risk-free learning on any machine in seconds.*
 
-This workshop is divided into three sections.
+**Our goal** today is to show you how Codespaces should have a place in the educators toolbox. 
+
+This workshop is divided into **three** sections.
 
 1. Creating and managing Codespaces
 2. Explore how LinkedIn Learning uses Codespaces in video training
@@ -17,16 +19,19 @@ This workshop is divided into three sections.
 
 ### Creating and managing Codespaces
 
-In this section you'll create a codespace.  We'll use animation open-source repository as the basis for our studies.
+In this section you'll create a codespace.  We'll use an animation open-source repository as the basis for our studies.
 
 You'll learn how to:
 
+* Fork the open source project to your account
 * Create a Codespace
 * Restart an existing Codespace
 * Manage existing Codespaces
 * See the Visual Studio enhancements (extensions and UI)
 * See the Command Line Interface customizations
-  
+* Run a interactive live web server from the command line
+* Modify and view an animation from the project
+* Save the change
 
 ###	Explore how LinkedIn Learning uses Codespaces in video training
 

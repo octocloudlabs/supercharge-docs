@@ -2,43 +2,17 @@
 id: a-lab-1
 ---
 
-## Create Codespace
+## Fork the lab repositories
 
-### A. Navigate to the repository
+Committing code changes while editing within a Codespace is the same as when editing code in a local repository. The changes are stored locally, within the Codespace. To sync and push the changes back to the GitHub hosted repo is the same too. But be aware, syncing is only allowed to a repo that you own. 
 
-1. In your browser, navigate to the <a href="#" target="_blank">animation repository</a>.
+In the labs you'll work with three repositories that we've created.  To save changes to these repos, you'll need to fork them first.
 
-2. Find and click the green Code button, then click the small + icon.  This will create a new Codespace on the default branch (Master).
-
-<img src='/assets/img/a-lab-01-01.png' alt="lab image" class="img-lab" >
-
-### B. Wait! 
-
-Creating the codespace takes a minute or so. 
-	
-<img src='/assets/img/a-lab-01-02.png' alt="lab image" class="img-lab" >
-	
-That's because there is a lot of actions happening. Here's the details if you are interested.
-
-
-* A lightweight clone of the repository is created. 
-  * This is based on the latest commit.
-  * For performance reasons, the full history of the repo is added later.
-* A dedicated VM is allocated.
-  * This VM is setup with the default storage size (32GB, 64GB etc.)
-  * This VM is setup with the default compute resources (2 core 4GB RAM, 4 core 8GB RAM etc.)
-   * These defaults are defined in the repository.
-* A docker container is created on the VM. 
-* The Codespace, the CLI and VS Code editor are configured
-  * These are based on settings in the repo configuration files.
-  * Finally, all commands specified in the settings file are run. 
-  
-
-
-### C. Note the URL change. 
-
-Checkout the new URL in the browser address bar (it ends with .github.dev). This name is generated from your username, plus a random GitHub generated name.  
-
-https://[username]-improved-robot-pqpjx7p9qvcrw6r.github.dev/
-
-[Go to next lab]
+   
+1. Open a new browser tab.
+2. Navigate to the <a href="#" target="_blank">animation repository</a>.
+3. Fork the Repository
+4. Open another browser tab
+5. Fork the <a href="#" target="_blank">LinkedIn Learning repository</a>.
+6. Open another browser tab
+7. Fork the <a href="#" target="_blank">abc repository</a>.
