@@ -16,9 +16,10 @@ id: a-lab-1
 ### B. Wait! 
 
   Creating the codespace takes a minute or so. 
+  
 	<img src='/assets/img/a-lab-01-02.png' alt="lab image" class="img-lab" >
 	
-	That's because there is a lot of actions happening. Here's the details if you are interested.
+That's because there is a lot of actions happening. Here's the details if you are interested.
 
 
 * A lightweight clone of the repository is created. 
