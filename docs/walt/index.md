@@ -2,7 +2,7 @@
 id: a-lab-1
 ---
 
-## Create Codespace (Lab A1)
+## Create Codespace
 
 ### A. Navigate to the repository
 
