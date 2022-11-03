@@ -1,9 +1,8 @@
 ---
 id: a-lab-1
 ---
-<link rel="stylesheet" href="/assets/css/custom-styles.css" />
 
-## Lab 
+## Lab A1
 
 ### A. Navigate to the repository
 
@@ -15,9 +14,9 @@ id: a-lab-1
 
 ### B. Wait! 
 
-  Creating the codespace takes a minute or so. 
-  
-	<img src='/assets/img/a-lab-01-02.png' alt="lab image" class="img-lab" >
+Creating the codespace takes a minute or so. 
+	
+<img src='/assets/img/a-lab-01-02.png' alt="lab image" class="img-lab" >
 	
 That's because there is a lot of actions happening. Here's the details if you are interested.
 
