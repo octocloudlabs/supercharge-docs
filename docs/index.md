@@ -6,6 +6,9 @@ id: welcome
 
 ## Welcome
 Get ready for the hands-on labs in the **Supercharge your onboarding and developer training with GitHub Codespaces** workshop. 
+
+*Our contention is that using Codespaces means you'll spend less time on local set-up which gives your employees and students more time learning and practicing. Plus it is cloud-based, isolated in-browser development environment that allows for risk-free learning on any machine in seconds.*
+
 This workshop is divided into three sections.
 
 1. Creating and managing Codespaces

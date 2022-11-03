@@ -4,18 +4,18 @@ version: false
 
 sidebar:
   - welcome
-  - label: Manage Codespaces (Lab A)
+  - label: Manage Codespaces
     children:
       - a-lab-1
       - a-lab-2
       - a-lab-3
       - a-lab-4
       - a-lab-5
-  - label: LinkedIn Learning Lessons (Lab B)
+  - label: LinkedIn Learning Lessons
     children:
       - b-lab-1
       - b-lab-2
-  - label: Customize Codespaces (Lab C)
+  - label: Customize Codespaces
     children:
       - c-lab-1
       - c-lab-2
