@@ -7,7 +7,7 @@ id: welcome
 ## Welcome
 Get ready for the hands-on labs in the **Supercharge your onboarding and developer training with GitHub Codespaces** workshop. 
 
-*Our contention is that Codespaces are an invaluable tool for educators and trainer. Using Codespaces means you'll spend less time on local set-up which gives your employees and students more time learning and practicing. Plus it is an isolated in-browser development environment that allows for risk-free learning on any machine in seconds.*
+*Our contention is that Codespaces are an invaluable tool for educators and trainers. Using Codespaces means you'll spend less time on local set-up which gives your employees and students more time learning and practicing. Plus. it is an isolated in-browser development environment that allows for risk-free learning on any machine in seconds. And your labs or onboarding documents can be accessed from the GitHub repository.*
 
 **Our goal** today is to show you how Codespaces should have a place in the educators toolbox. 
 
