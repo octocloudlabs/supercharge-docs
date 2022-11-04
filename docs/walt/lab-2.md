@@ -2,11 +2,11 @@
 id: a-lab-2
 ---
 
-## Create Codespace
+## Create a Codespace
 
 ### A. Navigate to the repository
 
-1. In your browser, navigate to the <a href="#" target="_blank">animation repository</a>.
+1. In your browser,open the fork of the animation repository
 
 2. Find and click the green Code button, then click the small + icon.  This will create a new Codespace on the default branch (Master).
 
