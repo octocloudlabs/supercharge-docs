@@ -18,3 +18,5 @@ In the labs you'll work with three repositories that we've created.  To save cha
 7. Fork the <a href="#" target="_blank">abc repository</a>.
 
 Keep the browser tabs open, as you'll be returning to the three forks during the labs.
+
+[Go to next lab]

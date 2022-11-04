@@ -6,7 +6,7 @@ id: a-lab-2
 
 ### A. Navigate to the repository
 
-1. In your browser,open the fork of the animation repository
+1. In your browser, open the fork of the animation repository
 
 2. Find and click the green Code button, then click the small + icon.  This will create a new Codespace on the default branch (Master).
 
