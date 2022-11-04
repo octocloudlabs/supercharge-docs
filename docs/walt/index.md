@@ -19,4 +19,4 @@ In the labs you'll work with three repositories that we've created.  To save cha
 
 Keep the browser tabs open, as you'll be returning to the three forks during the labs.
 
-[Go to next lab]
+[<a href="walt/lab-2.html">Go to next lab</a>]

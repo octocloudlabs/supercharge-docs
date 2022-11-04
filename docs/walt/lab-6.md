@@ -15,7 +15,7 @@ On advantage of Live Server is that it auto-refreshes the web page whenever you 
 You created the Codespace on the MojoCanvasFun `master` branch. In Visual Studio Code you can see all the files from that branch in the Explorer.
 
 1. In the Activity Bar click the Explorer button
-<img src='/assets/img/a-lab-09-01.png' alt="lab image" class="img-lab" >
+<img src='/assets/img/a-lab-10.png' alt="lab image" class="img-lab" >
 
 2. Navigate to the TextParticles folder
 3. Open the `index.html` file in the editor.
@@ -27,7 +27,8 @@ You created the Codespace on the MojoCanvasFun `master` branch. In Visual Studio
 
 ### View the page
 
-Visual Studio Code starts the Live Server, then opens an new browser tab that shows the webpage (the URL will end with github.dev/TextParticles/index.html).
+Visual Studio Code starts the Live Server, then opens an new browser tab that shows the webpage (the URL will end with `github.dev/TextParticles/index.html`).
 
 1. View the webpage, move your mouse over the image to see the particles animate!
+2. 
 [Go to next lab]
