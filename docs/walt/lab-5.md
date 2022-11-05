@@ -14,4 +14,4 @@ Note the custom command prompt **Universe-Workshop>*, this is specified in the c
    A. Notice that the file folder defaults to the root
 
 
-[Go to next lab]
+[<a href="/walt/lab-6.html">Go to next lab</a>]

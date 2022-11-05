@@ -31,4 +31,4 @@ Visual Studio Code starts the Live Server, then opens an new browser tab that sh
 
 1. View the webpage, move your mouse over the image to see the particles animate!
 2. 
-[Go to next lab]
+[<a href="/walt/lab-7.html">Go to next lab</a>]

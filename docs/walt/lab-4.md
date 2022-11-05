@@ -25,4 +25,4 @@ You'll see how to customize this list of extensions later in the workshop!
 1. Click the hamburger menu and chose **File>Preferences>Color Theme**.
 2. Scroll though the list of available themes and choose one of the **Winter is Coming** themes.
 
-[Go to next lab]
+[<a href="/walt/lab-5.html">Go to next lab</a>]

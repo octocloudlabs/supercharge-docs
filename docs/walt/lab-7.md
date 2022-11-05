@@ -4,4 +4,4 @@ id: a-lab-7
 
 ## Manage the Codespace
 
-[Go to next lab]
+[<a href="/walt/lab-8.html">Go to next lab</a>]

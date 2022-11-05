@@ -22,4 +22,4 @@ The Activity Bar is docked along the left side of the editor.  Here you'll find 
 
 The blue circles with numbers are notifications from the associated tool.  For example the number 3 in the screenshot indicates there are three files that haven't been committed to source control yet.
 
-[Go to next lab]
+[<a href="/walt/lab-4.html">Go to next lab</a>]
