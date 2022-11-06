@@ -10,6 +10,10 @@ This is a nice advantage for students, as we can ensure that all the tools  they
 
 You'll see how to customize this list of extensions later in the workshop!
 
+💡 **Instructor tip:**
+
+>
+
 ### Let's look
 
 <img src='/assets/img/a-lab-04-01.png' alt="lab image" class="img-lab" >

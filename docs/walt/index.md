@@ -8,7 +8,7 @@ Committing code changes while editing within a Codespace is the same as when edi
 
 In the labs you'll work with three repositories that we've created.  To save changes to these repos, you'll need to fork them first.
 
-💡 **Teaching point:**
+💡 **Instructor tip:**
 
 >You create a repository for the training, the learners will fork it so that they can save changes as they progress through the training.
 

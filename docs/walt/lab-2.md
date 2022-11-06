@@ -10,6 +10,10 @@ If you leave your codespace running without interaction, or if you exit your cod
 
 Any saved changes in your codespace will still be available when you next start it. So don't worry about timeouts, the codespace can be quickly restarted as needed.
 
+💡 **Instructor tip:**
+
+>
+
 ### A. Navigate to the repository
 
 1. In your browser, open the fork of the animation repository

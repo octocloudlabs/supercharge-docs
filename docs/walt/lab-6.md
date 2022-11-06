@@ -11,9 +11,9 @@ On advantage of Live Server is that it auto-refreshes the web page whenever you 
 
 With just a couple of clicks, Live Server lets you see your page live in another browser tab. Better yet, it features live reloading, so when you update your code, the changes are also reflected in the browser.
 
-💡 **Teaching point:**
+💡 **Instructor tip:**
 
->Your learners can experiment with web code and instantly see the results in the browser
+>Live Server let's our learners experiment with web code and instantly see the results in the browser. This works in any browser.
 
 ## Open some files
 

@@ -1,6 +1,9 @@
 ---
 id: a-lab-5
 ---
+💡 **Instructor tip:**
+
+
 
 ### Open the terminal
 

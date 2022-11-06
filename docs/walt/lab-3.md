@@ -12,6 +12,10 @@ With Codespaces, you can work on most devices, as long as it has a modern browse
 
 The browser version of VS Code is similar to the desktop version. Which is a plus for your employees or students that know VS Code. The main differences between the two is the menu location. Check out the hamburger menu in the upper left of the application.
 
+💡 **Instructor tip:**
+
+>
+
 <img src='/assets/img/a-lab-02-01.png' alt="lab image" class="img-lab" >
 
 ### The Activity Bar
