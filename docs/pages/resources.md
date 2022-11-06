@@ -1,7 +1,7 @@
 ---
-id: resources
+id: linkedin-courses
 ---
 
-## Resources
+## LinkedIn Codespace Courses
 
 <a href="#">LinkedIn Codespaces courses</a>
