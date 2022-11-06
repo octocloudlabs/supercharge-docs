@@ -2,6 +2,6 @@
 id: linkedin-courses
 ---
 
-## LinkedIn Codespace Courses
+## LinkedIn Codespaces Courses
 
 <a href="#">LinkedIn Codespaces courses</a>
