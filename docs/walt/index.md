@@ -10,7 +10,7 @@ In the labs you'll work with three repositories that we've created.  To save cha
 
 💡 **Instructor tip:**
 
->You create a repository for the training, the learners will fork it so that they can save changes as they progress through the training.
+>Instructors create a repository for the training. The learners use the repository to follow the instructions, They fork it so that they can save changes as they progress through the training.
 
 ### Fork 
 1. Open a new browser tab.
