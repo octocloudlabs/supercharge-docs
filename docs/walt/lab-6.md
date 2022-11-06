@@ -5,9 +5,11 @@ id: a-lab-6
 
 ***[headphones recommended]***
 
-This project is a **fork of CanvasFun**, an animation open-source repository.  We'll view some of the example files in the browser. To do this you need to run the Live Server.
+This project is a **fork of CanvasFun**, an animation open-source repository.  We'll view some of the example files in the browser. To do this you need to run the Live Server extension.
 
 On advantage of Live Server is that it auto-refreshes the web page whenever you edit the file and save the changes.
+
+With just a couple of clicks, Live Server lets you see your page live in another browser tab. Better yet, it features live reloading, so when you update your code, the changes are also reflected in the browser.
 
 
 ## Open some files
