@@ -8,9 +8,9 @@ Committing code changes while editing within a Codespace is the same as when edi
 
 In the labs you'll work with three repositories that we've created.  To save changes to these repos, you'll need to fork them first.
 
-💡 ** Teaching point:**
+💡 **Teaching point:**
 
-Your learners can experiment with web code and instantly see the results in the browser
+>>Your learners can experiment with web code and instantly see the results in the browser
 
 1. Open a new browser tab.
 2. Navigate to the <a href="https://github.com/octocloudlabs/supercharge-canvas-fun" target="_blank">animation repository</a>.
