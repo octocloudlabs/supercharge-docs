@@ -12,7 +12,7 @@ On advantage of Live Server is that it auto-refreshes the web page whenever you 
 
 ## Open some files
 
-You created the Codespace on the MojoCanvasFun `master` branch. In Visual Studio Code you can see all the files from that branch in the Explorer.
+You created the codespace on the MojoCanvasFun `master` branch. In Visual Studio Code you can see all the files from that branch in the Explorer.
 
 1. In the Activity Bar click the Explorer button
 <img src='/assets/img/a-lab-10.png' alt="lab image" class="img-lab" >

@@ -4,7 +4,7 @@ id: a-lab-4
 
 ### Explore the VS Code extensions
 
-VS Code extensions let you add languages, debuggers, and tools to your installation to support your development workflow. Each Codespace starts with a set of predefined extensions.These are defined by the Codespace owner and defined in a configuration file. 
+VS Code extensions let you add languages, debuggers, and tools to your installation to support your development workflow. Each codespace starts with a set of predefined extensions.These are defined by the codespace owner and defined in a configuration file. 
 
 This is a nice advantage for students, as we can ensure that all the tools  they need to get started are available.
 

@@ -24,9 +24,9 @@ In this section you'll create a codespace.  We'll use an animation open-source r
 You'll learn how to:
 
 * Fork the open source project to your account
-* Create a Codespace
-* Restart an existing Codespace
-* Manage existing Codespaces
+* Create a codespace
+* Restart an existing codespace
+* Manage existing codespaces
 * See the Visual Studio enhancements (extensions and UI)
 * See the Command Line Interface customizations
 * Run a interactive live web server from the command line
@@ -44,7 +44,7 @@ You'll learn how to:
 
 ### Customize Codespaces for your team
 
-Using a Codespace is simple, at least it is from the learners perspective. To create this idyllic and seamless experience requires preparation however. 
+Using a codespace is simple, at least it is from the learners perspective. To create this idyllic and seamless experience requires preparation however. 
 Someone needs to customize and configure the codespace.
 
 You'll learn how to:

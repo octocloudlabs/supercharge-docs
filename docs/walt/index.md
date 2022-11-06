@@ -10,12 +10,12 @@ In the labs you'll work with three repositories that we've created.  To save cha
 
    
 1. Open a new browser tab.
-2. Navigate to the <a href="#" target="_blank">animation repository</a>.
+2. Navigate to the <a href="https://github.com/octocloudlabs/supercharge-canvas-fun" target="_blank">animation repository</a>.
 3. Fork the Repository
 4. Open another browser tab
-5. Fork the <a href="#" target="_blank">LinkedIn Learning repository</a>.
+5. Fork the <a href="https://github.com/octocloudlabs/supercharge-linkedin-course" target="_blank">LinkedIn Learning repository</a>.
 6. Open another browser tab
-7. Fork the <a href="#" target="_blank">abc repository</a>.
+7. Fork the <a href="https://github.com/octocloudlabs/supercharge-customize" target="_blank">abc repository</a>.
 
 Keep the browser tabs open, as you'll be returning to the three forks during the labs.
 
