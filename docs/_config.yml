@@ -27,6 +27,7 @@ sidebar:
       - c-lab-3
       - c-lab-4
   - label: Resources
+    children:
       -  linkedin-courses
       -  faq
 
