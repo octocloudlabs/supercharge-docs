@@ -24,7 +24,7 @@ You'll see this screen after the codespace stops. You can restart it by clicking
 <img src='/assets/img/a-lab-09-04.png' alt="lab image" class="img-lab" >
 
 ### Start the codespace from GitHub site
-Currently you are on the Codespaces URL (/gitub.dev). Let's navigate to the <a></a href="https://github.com/octocloudlabs/supercharge-canvas-fun" target="_blank">repository page</a>.
+Currently you are on the Codespaces URL (/gitub.dev). Let's navigate to the <a href="https://github.com/octocloudlabs/supercharge-canvas-fun" target="_blank">repository page</a>.
 
 
 * Click the Green Code button.  This time you'll see your existing codespaces listed. Note the information supplied.
@@ -35,10 +35,13 @@ Currently you are on the Codespaces URL (/gitub.dev). Let's navigate to the <a><
 
 To restart the codespace, you can click on the codespace name, but let's look at how to manage the codespace before going any further.
 
+### Manage your Codespaces
+
 * Click the **...** button, then choose the **Manage Codespaces** menu item.
 <img src='/assets/img/a-lab-09-06.png' alt="lab image" class="img-lab" >
 
-On the page you can see additional information about the codespace. For example you can see the VM configuration  (2-core, 4GB RAM, 32GB)
+
+On the page you can see additional information about the codespace. For example you can see the VM configuration  (2-core, 4GB RAM, 32GB).
 
 <img src='/assets/img/a-lab-09-07.png' alt="lab image" class="img-lab" >
 
