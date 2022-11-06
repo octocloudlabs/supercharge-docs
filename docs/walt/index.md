@@ -10,7 +10,7 @@ In the labs you'll work with three repositories that we've created.  To save cha
 
 💡 **Teaching point:**
 
->>Your learners can experiment with web code and instantly see the results in the browser
+>You create a repository for the training, the learners will fork it so that they can save changes as they progress through the training.
 
 ### Fork 
 1. Open a new browser tab.
