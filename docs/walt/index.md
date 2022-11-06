@@ -12,6 +12,7 @@ In the labs you'll work with three repositories that we've created.  To save cha
 
 >>Your learners can experiment with web code and instantly see the results in the browser
 
+### Fork 
 1. Open a new browser tab.
 2. Navigate to the <a href="https://github.com/octocloudlabs/supercharge-canvas-fun" target="_blank">animation repository</a>.
 3. Fork the Repository
