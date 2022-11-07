@@ -21,7 +21,10 @@ If you have not already done so, please fork the [LinkedIn Learning repository](
 
 Booting up Codespaces for this course, the learner is placed in a pre-configured environment for Java development where all but one extension has been pre-installed, the project itself is set up and configured, and the learner can jump right in and start coding.
 
-In this first lesson the instructor helps the learner through the final steps to prepare for hands-on practice, including installing necessary extension which cannot be pre-installed by Codespaces (instead Codespaces is configured to recommend the extension), and starting up the Java project.
+In this first lesson the instructor helps the learner through the final steps to prepare for hands-on practice, 
+
+* Including installing a necessary extension.  This extension cannot be pre-installed by Codespaces (instead Codespaces is configured to recommend the extension)
+* Starting up the Java project.
 
 
 [Go to next lab section](/morten/lab-2.html)
