@@ -1,11 +1,13 @@
 ---
 id: a-lab-5
 ---
+### Open the terminal
+
 💡 **Instructor tip:**
 
 
 
-### Open the terminal
+
 
 The command line terminal (bash) is docked to the bottom of the editor. 
 

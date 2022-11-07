@@ -2,6 +2,6 @@
 id: a-lab-7
 ---
 
-## Manage the Codespace
+## View another page
 
 [<a href="/walt/lab-8.html">Go to next lab</a>]
