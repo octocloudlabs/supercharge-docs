@@ -38,31 +38,35 @@ Visual Studio Code starts the Live Server, then opens an new browser tab that sh
 
 
 ### Edit the Javascript
-1. Switch browser tabs and view the Codesapce.
+1. Switch browser tabs and view the Codespace.
 2. In the Explorer, open the `/TextParticles/src/js/index.js` file.
 3. This is the code that creates the canvas, loads the image and starts the animation.
 4. You will change the image shown in the animation.
-5. Comment out line 12
+5. Comment out line 12.
    
 ```
 let url =
     "https://github.githubassets.com/images/modules/logos_page/Octocat.png";
 ```
 
-7. Uncomment line 15
+7. Uncomment line 15.
 
 ```
   // let url =
   // "https://myoctocat.com/assets/images/octocat-accessories.png";
 
 ```
-8. Change the canvas color on line 30
+8. Change the canvas color on line 30.
 
 ```
     c.clear("orange");
 ```
 
 9. Save the file, switch browser tabs and refresh the page (F%).
+
+💡 **Instructor tip:**
+
+> Working with web applications in Codespaces, running a web server on the VM give the learners instant access to a full featured web app. It can work well for front-end development or server side web application. Performance of browser based code is the same as running a real site.
 
 
 [<a href="/walt/lab-7.html">Go to next lab</a>]
