@@ -17,8 +17,8 @@ If you do not see it press **Ctrl+Shift+\`** [PC] or **⌘+Shift+`** [Mac]
 Note the custom command prompt `Universe-Workshop>`, this is specified in the configuration files.
 
 1. Run `ls` command to see a list of files.
-   A. Notice that the file folder defaults to the root of the workspace.
-2. Do another command here!
+2. Notice that the file folder defaults to the root of the workspace.
+3. Do another command here!
 
 💡 **Instructor tip:**
 > The learner can run a shell scripts from the browser. This let's you teach all manner of command-line base techniques or have them practice important commands.
