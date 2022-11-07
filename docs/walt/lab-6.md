@@ -35,5 +35,33 @@ You created the codespace on the MojoCanvasFun `master` branch. In Visual Studio
 Visual Studio Code starts the Live Server, then opens an new browser tab that shows the webpage (the URL will end with `github.dev/TextParticles/index.html`).
 
 1. View the webpage, move your mouse over the image to see the particles animate!
-2. 
+
+
+### Edit the Javascript
+1. Switch browser tabs and view the Codesapce.
+2. In the Explorer, open the `/TextParticles/src/js/index.js` file.
+3. This is the code that creates the canvas, loads the image and starts the animation.
+4. You will change the image shown in the animation.
+5. Comment out line 12
+`
+let url =
+    "https://github.githubassets.com/images/modules/logos_page/Octocat.png";
+`
+
+5. Uncomment line 15
+
+`
+  // let url =
+  // "https://myoctocat.com/assets/images/octocat-accessories.png";
+
+`
+6. Change the canvas color on line 30
+
+'
+    c.clear("orange");
+'
+
+7. Save the file, switch browser tabs and refresh the page (F%).
+
+
 [<a href="/walt/lab-7.html">Go to next lab</a>]
