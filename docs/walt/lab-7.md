@@ -10,17 +10,17 @@ id: a-lab-7
 
 💡 **Instructor tip:**
 
->Other browser service work in Codespace too. For example, playing an audio file!
+>Other browser services work in Codespace too. For example, playing an audio file!
 
 ### Open the GyroDodge folder
 >Note: URLs are case-sensitive on this codespace VM.
 
 1. In the Live Server tab
 2. Change the URL from `app.github.dev/TextParticles/index.html` 
-3. To 'app.github.dev/GyroDodge/index.html' 
+3. To `app.github.dev/GyroDodge/index.html`
 4. This is a browser based game, you should be able to hear the game music and effects.
 
-When you have time, check out the code in the `/workspaces/supercharge-canvas-fun/GyroDodge/js` folder.
+When you done playing the game, check out the code in the `/workspaces/supercharge-canvas-fun/GyroDodge/js` folder.
 
 
 [<a href="/walt/lab-8.html">Go to next lab</a>]
