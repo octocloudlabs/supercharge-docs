@@ -68,5 +68,5 @@ let url =
 
 > Working with web applications in Codespaces, running a web server on the VM gives the learners instant access to a full featured web app. It can work well for front-end development or server side web application. Performance of browser based code is the same as running a real site.
 
+[Go to next lab ](/walt/lab-7.html)
 
-[<a href="/walt/lab-7.html">Go to next lab</a>]

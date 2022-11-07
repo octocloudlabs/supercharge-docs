@@ -51,4 +51,5 @@ Checkout the new URL in the browser address bar (it ends with .github.dev). This
 
 https://[username]-improved-robot-pqpjx7p9qvcrw6r.github.dev/
 
-[<a href="/walt/lab-3.html">Go to next lab</a>]
+[Go to next lab ](/walt/lab-3.html)
+

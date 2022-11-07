@@ -23,4 +23,5 @@ Note the custom command prompt `Universe-Workshop>`, this is specified in the co
 💡 **Instructor tip:**
 > The learner can run a shell scripts from the browser. This let's you teach all manner of command-line base techniques or have them practice important commands.
 
-[<a href="/walt/lab-6.html">Go to next lab</a>]
+
+[Go to next lab ](/walt/lab-6.html)
