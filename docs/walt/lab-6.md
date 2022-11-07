@@ -43,26 +43,26 @@ Visual Studio Code starts the Live Server, then opens an new browser tab that sh
 3. This is the code that creates the canvas, loads the image and starts the animation.
 4. You will change the image shown in the animation.
 5. Comment out line 12
-6. 
+   
 ```
 let url =
     "https://github.githubassets.com/images/modules/logos_page/Octocat.png";
 ```
 
-5. Uncomment line 15
+7. Uncomment line 15
 
 ```
   // let url =
   // "https://myoctocat.com/assets/images/octocat-accessories.png";
 
 ```
-6. Change the canvas color on line 30
+8. Change the canvas color on line 30
 
 ```
     c.clear("orange");
 ```
 
-7. Save the file, switch browser tabs and refresh the page (F%).
+9. Save the file, switch browser tabs and refresh the page (F%).
 
 
 [<a href="/walt/lab-7.html">Go to next lab</a>]
