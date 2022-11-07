@@ -13,7 +13,7 @@ With just a couple of clicks, Live Server lets you see your page live in another
 
 💡 **Instructor tip:**
 
->Live Server let's our learners experiment with web code and instantly see the results in the browser. This works in any browser.
+>Live Server let's the learners experiment with web code and instantly see the results in the browser.This works in any browser.
 
 ## Open some files
 
@@ -49,24 +49,24 @@ let url =
     "https://github.githubassets.com/images/modules/logos_page/Octocat.png";
 ```
 
-7. Uncomment line 15.
+* Uncomment line 15.
 
 ```
   // let url =
   // "https://myoctocat.com/assets/images/octocat-accessories.png";
 
 ```
-8. Change the canvas color on line 30.
+* Change the canvas color on line 30.
 
 ```
     c.clear("orange");
 ```
 
-9. Save the file, switch browser tabs and refresh the page (F%).
+* Save the file, switch browser tabs and refresh the page (F5).
 
 💡 **Instructor tip:**
 
-> Working with web applications in Codespaces, running a web server on the VM give the learners instant access to a full featured web app. It can work well for front-end development or server side web application. Performance of browser based code is the same as running a real site.
+> Working with web applications in Codespaces, running a web server on the VM gives the learners instant access to a full featured web app. It can work well for front-end development or server side web application. Performance of browser based code is the same as running a real site.
 
 
 [<a href="/walt/lab-7.html">Go to next lab</a>]
