@@ -21,10 +21,12 @@ sidebar:
       - b-lab-2
   - label: Customize Codespaces
     children:
-      - c-lab-1
-      - c-lab-2
-      - c-lab-3
-      - c-lab-4
+      - customizing-01
+      - customizing-02
+      - customizing-03
+      - customizing-04
+      - customizing-05
+      - customizing-06
   - label: Resources
     children:
       -  linkedin-courses
