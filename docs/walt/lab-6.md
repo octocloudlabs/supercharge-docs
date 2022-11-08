@@ -42,21 +42,21 @@ Visual Studio Code starts the Live Server, then opens a new browser tab showing 
 4. You will change the image shown in the animation.
 5. Comment out line 12.
    
-```
+```js
 let url =
     "https://github.githubassets.com/images/modules/logos_page/Octocat.png";
 ```
 
 * Uncomment line 15.
 
-```
+```js
   // let url =
   // "https://myoctocat.com/assets/images/octocat-accessories.png";
 
 ```
 * Change the canvas color on line 30.
 
-```
+```js
     c.clear("orange");
 ```
 
