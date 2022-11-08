@@ -23,9 +23,9 @@ Our setup is pretty simple, we want to control three things:
 - Optionally launch the npm start command when the codespace is created with `"postStartCommand"`
 
 ## Auto-loading an Extension
+The best place to find extensions is the VS Code Marketplace.
 
 ![Marketplace](screenshots/2022-11-08_00-11-51.png)
-The best place to find extensions is the VSCode Marketplace.
 
 ![Alt text](screenshots/2022-11-08_00-21-40.png)
 
