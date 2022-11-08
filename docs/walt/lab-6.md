@@ -3,21 +3,19 @@ id: a-lab-6
 ---
 ## View and edit a webpage
 
-***[headphones recommended]***
+This project is a **fork of CanvasFun**, an open-source project.  you'll view some of the animation examples in the browser. To do this, we need to run the Live Server extension.
 
-This project is a **fork of CanvasFun**, an animation open-source repository.  We'll view some of the example files in the browser. To do this you need to run the Live Server extension.
-
-On advantage of Live Server is that it auto-refreshes the web page whenever you edit the file and save the changes.
+One advantage of Live Server is it auto-refreshes the web page whenever you edit the file and save the changes.
 
 With just a couple of clicks, Live Server lets you see your page live in another browser tab. Better yet, it features live reloading, so when you update your code, the changes are also reflected in the browser.
 
 💡 **Instructor tip:**
 
->Live Server let's the learners experiment with web code and instantly see the results in the browser.This works in any browser.
+>Live Server lets the learners experiment with web code and instantly see the results in the browser. This works in any browser.
 
 ## Open some files
 
-You created the codespace on the MojoCanvasFun `master` branch. In Visual Studio Code you can see all the files from that branch in the Explorer.
+You created the codespace on the supercharge-canvas-fun `master` branch. In Visual Studio Code you can see all the files from that branch in the Explorer.
 
 1. In the Activity Bar click the Explorer button
 <img src='/assets/img/a-lab-10.png' alt="lab image" class="img-lab" >
