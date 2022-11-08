@@ -4,7 +4,7 @@ id: a-lab-3
 
 ## Explore VS Code
 
-You are looking at the **Visual Studio Code** application running in the cloud, accessible via your browser. It's also possible to create a codespace and use the Visual Studio Desktop application (on your PC or Mac) to connect to codespace. The default option is to use the browser however.
+You are looking at the **Visual Studio Code** application running in the cloud, accessible via your browser. It's also possible to create a codespace and use the VS Code desktop application (on your PC or Mac) to connect to the codespace. The default option is to use the browser.
 
 With Codespaces, you can work on most devices, as long as it has a modern browser.  We've tested it on iPads and Android tablets, so yes you can work on your projects from anywhere. 
 
