@@ -41,15 +41,13 @@ That's because there is a lot of actions happening. Here's the details if you ar
 * A docker container is created on the VM. 
 * The codespace, the CLI and VS Code editor are configured
   * These are based on settings in the repo configuration files.
-  * Finally, all commands specified in the settings file are run. 
-  
-
+  * Finally, all commands specified in the settings file are run.
 
 ### C. Note the URL change. 
 
 Checkout the new URL in the browser address bar (it ends with .github.dev). This name is generated from your username, plus a random GitHub generated name.  
 
-https://[username]-improved-robot-pqpjx7p9qvcrw6r.github.dev/
+https://[username]-[random-two-word-name]-[hash].github.dev/
 
 [Go to next lab ](/walt/lab-3.html)
 
