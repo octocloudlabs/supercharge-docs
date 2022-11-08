@@ -4,7 +4,7 @@ id: customizing-01
 
 # Understanding Codespaces
 
-In this section, you'll be learning how to customize your workspace to your needs, you'll also learn a little about the structure of how we create our own courses and how to use a great tool called [CodeTour]( https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour).
+In this section, you'll learn how to customize your workspace to your needs, you'll also learn a little about the structure of how we create our own courses at LinkedIn Learning. You'll also learn how to use a great tool called [CodeTour]( https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour).
 
 ---
 
@@ -16,7 +16,7 @@ In this section, you'll be learning how to customize your workspace to your need
 ### Exercise
 
 1. Make sure you open the repository for this section called [supercharge-customize](https://github.com/octocloudlabs/supercharge-customize).
-1. Click on the green code button
+1. Click on the green Code button
 1. Click on the plus icon to create a codespace in the main branch.
 
 ---
