@@ -16,7 +16,7 @@ Any saved changes in your codespace will still be available when you next start 
 
 ### A. Navigate to the repository
 
-1. In your browser, open the fork of the animation repository
+1. In your browser, open the fork of the [animation repository](https://github.com/octocloudlabs/supercharge-canvas-fun)
 
 2. Find and click the green Code button, then select the Codespaces tab, and click the small + icon.  This will create a **new** codespace on the default branch (Master).
 
