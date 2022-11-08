@@ -3,7 +3,7 @@ id: customizing-05
 ---
 # Devcontainers
 
-Codespaces uses a Virtual Machine in the cloud to run VSCode. You can customize how that machine behaves controlling, for example, which extensions are loaded, running a script when the machine finishes loading or modifying other settings.
+Codespaces uses a Virtual Machine in the cloud to run VSCode. You can customize how that machine behaves controlling, for example, which extensions are loaded, customizing the command prompt, installing software, running a script when the machine finishes loading or controlling machine level settings.
 
 The second way that you can modify your codespaces is through the use of a `.devcontainer/devcontainer.json` file.
 
