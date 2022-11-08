@@ -22,23 +22,23 @@ You created the codespace on the supercharge-canvas-fun `master` branch. In Visu
 
 2. Navigate to the TextParticles folder
 3. Open the `index.html` file in the editor.
-4. Open the `src\index.js` file in th editor.
+4. Open the `src/index.js` file in the editor.
 
 ### Start Live Server and view files
 
-5. Right click the index.html file (in the TextParticles folder) and choose `Open with Live Server`.
+5. Right click the `index.html` file (in the TextParticles folder) and choose `Open with Live Server`.
 
 ### View the page
 
-Visual Studio Code starts the Live Server, then opens an new browser tab that shows the webpage (the URL will end with `github.dev/TextParticles/index.html`).
+Visual Studio Code starts the Live Server, then opens a new browser tab showing the webpage (the URL will end with `github.dev/TextParticles/index.html`).
 
-1. View the webpage, move your mouse over the image to see the particles animate!
+1. View the webpage, and move your mouse over the image to see the particles animate!
 
 
 ### Edit the Javascript
 1. Switch browser tabs and view the Codespace.
 2. In the Explorer, open the `/TextParticles/src/js/index.js` file.
-3. This is the code that creates the canvas, loads the image and starts the animation.
+3. This is the code that creates the canvas, loads the image, and starts the animation.
 4. You will change the image shown in the animation.
 5. Comment out line 12.
    
