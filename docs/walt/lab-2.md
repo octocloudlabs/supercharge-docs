@@ -4,11 +4,11 @@ id: a-lab-2
 
 ## Create a Codespace
 
-When you want to work on a project, you can choose to create a new codespace or open an existing codespace. For this example, you'll create a codespace on the master branch, but they can be created from any branch in the repository. We've found it best to work with a single codespace for training, and restart it when returning to the training session.
+When you want to work on a project, you can choose to create a new codespace or open an existing codespace. For this example you'll create a codespace on the main branch, but they can be created from any branch in the repository. We've found it best to work with a single codespace for training, and restart it when returning to the training session.
 
 If you leave your codespace running without interaction, or if you exit your codespace without explicitly stopping it, the codespace will timeout after a period of inactivity and stop running. By default, a codespace will timeout after 30 minutes of inactivity.  
 
-Any saved changes in your codespace will still be available when you next start it. So don't worry about timeouts, the codespace can be quickly restarted as needed.
+Any saved changes in your codespace will still be available when you next start it. Don't worry about timeouts; the codespace can be quickly restarted as needed.
 
 💡 **Instructor tip:**
 
