@@ -21,6 +21,6 @@ For this workshop we've selected three movies from the middle of the example cou
 
 💡 **Instructor tip:**
 
-> * As you checkout each branch, note how the project has progressed to match where the instructor is in the course. This ensures the learner can always start at the same place as the instructor, no matter what movie they start with.
-> * Because GitHub Codespaces is a VM, when you work with Git within Codespaces, you are working on a local Git tree on the VM, not on GitHub. That means you can safely stage, commit, checkout, switch, revert, rebase, and do anything you like without your changes affecting the repo. Your work as you make your way through the course is isolated to the Codespaces VM meaning only you can see it!
-> * If you make a change you want to commit to the repo, you push it upstream to the GitHub repo just like you would push code from your computer to GitHub.
+> * As the learner checks out each branch, note how the project has progressed to match where the instructor is in the course. This ensures the learner can always start at the same place as the instructor, no matter what movie they start with.
+> * Because GitHub Codespaces is a VM, when the learner uses Git within Codespaces, the learner is on a local Git tree on the VM, not on GitHub. That means the learner can safely stage, commit, checkout, switch, revert, rebase without your changes affecting the repo. All work in the course is isolated to the Codespaces VM meaning only the student can see it!
+> * If the learner makes a change they want to commit to the repo, they push it upstream to the GitHub repo just like they would push code from their computer to GitHub.
