@@ -3,29 +3,11 @@ id: customizing-04
 ---
 # Modifying Settings
 
-For your own projects, you'll want to create your own look and feel so that your videos feel consistent and are as readable as possible.
+For your own projects, you'll want to create your own look and feel so that your training feels consistent and are as readable as possible.
+
+To make sure that the learner's computer matches your training, you can force certain settings to be on by default, so for example you can make sure line numbers are turned on, the minimap is off and that the activity bar is showing.
 
 If there's already a `settings.json` file in the `.vscode` folder, you can modify it to your liking. Let's try changing an existing file.
-
----
-
-## Renaming a Codespace
-
-![Restart](screenshots/restarting_codespace.png)
-
-When you stop actively working on codespace, it will go into sleep mode. 
-
-You can create a new codespace, restart an existing codespace and renaming a codespace.
-
-## Exercise
-1. Close your existing codespaces
-1. Go to the [supercharge-customize](https://github.com/octocloudlabs/supercharge-customize) repository. 
-1. Click on the `Code` Button
-1. Locate the Plus `(+)` button (2)
-1. Notice the auto-generated name (3)
-1. Click on the `...` button, then click on rename (4)
-1. Type in a new name
-1. Click on the codespace.
 
 ---
 
