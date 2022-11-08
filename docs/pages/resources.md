@@ -4,4 +4,4 @@ id: linkedin-courses
 
 ## LinkedIn Codespaces Courses
 
-<a href="#">LinkedIn Codespaces courses</a>
+<a href="https://lnkd.in/hands-on-practice">LinkedIn Codespaces courses</a>
