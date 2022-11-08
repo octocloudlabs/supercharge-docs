@@ -4,15 +4,12 @@ id: a-lab-4
 
 ### Explore the VS Code extensions
 
-VS Code extensions let you add languages, debuggers, and tools to your installation to support your development workflow. Each codespace starts with a set of predefined extensions.These are defined by the codespace owner and defined in a configuration file. 
-
-This is a nice advantage for students, as we can ensure that all the tools  they need to get started are available.
+VS Code extensions let you add languages, debuggers, and tools to your installation to support your development workflow. Each codespace starts with a set of predefined extensions. These are defined by the codespace owner in a configuration file. 
 
 You'll see how to customize this list of extensions later in the workshop!
 
 💡 **Instructor tip:**
-
->
+> This is a nice advantage for students, as the instructor can ensure all the tools they need to get started are available.
 
 ### Let's look
 
@@ -21,8 +18,8 @@ You'll see how to customize this list of extensions later in the workshop!
 1. In the Activity bar, click the Extensions button.
 2. In the Extensions panel you'll see six extensions.
 3. Click on the **Live Server** item to see a detail page in VS Code.  
-   1. Live Server is development web server.  You'll use it to view the project site. 
-4.  Click on the **Winter is Coming Theme**.  This is a theme that defines colors and fonts for the editor.
+   1. Live Server a is development web server. You'll use it to view the project site. 
+4.  Click on the **Winter is Coming Theme**. This is a theme that defines colors and fonts for the editor.
 
 
 ### Change the theme
