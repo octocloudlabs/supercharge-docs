@@ -12,7 +12,7 @@ Any saved changes in your codespace will still be available when you next start 
 
 💡 **Instructor tip:**
 
->Have the learner create the codespace on one branch. If necessary for them to change branches, that can be done within the active codespace.
+> Have the learner create the codespace on the main branch. From there, if necessary, they can change branches within the active codespace.
 
 ### A. Navigate to the repository
 
