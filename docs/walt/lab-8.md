@@ -7,7 +7,7 @@ id: a-lab-8
 
 If you leave your codespace running without interaction, or if you exit your codespace without explicitly stopping it, the codespace will timeout after a period of inactivity and stop running. 
 
-Or you can stop a codespace at any time.
+Or, you can stop a codespace at any time.
 
 ### Stop the Codespace within Visual Studio Code
 
@@ -19,15 +19,15 @@ Or you can stop a codespace at any time.
 
 <img src='/assets/img/a-lab-09-03.png' alt="lab image" class="img-lab"  >
 
-You'll see this screen after the codespace stops. You can restart it by clicking the **Restart Codespace** button, but we'll look at another way to start it.
+You'll see this screen below after the codespace stops. You can restart it by clicking the **Restart Codespace** button, but we'll look at another way to start it.
 
-<img src='/assets/img/a-lab-09-04.png' alt="lab image" class="img-lab" >
+<img src='/assets/img/a-lab-09-04.png' width="50" alt="lab image" class="img-lab" >
 
 ### Start the codespace from GitHub site
 Currently you are on the Codespaces URL (/gitub.dev). Let's navigate to the <a href="https://github.com/octocloudlabs/supercharge-canvas-fun" target="_blank">repository page</a>.
 
 
-* Click the Green Code button.  This time you'll see your existing codespaces listed. Note the information supplied.
+* Click the Green Code button.  This time you'll see the screen below. Note the information supplied.
   * The codespace name.
   * What branch is associated with the codespace.
   * Whether there are any repository differences between the GitHub version and the codespace version. 
