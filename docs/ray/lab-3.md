@@ -41,12 +41,12 @@ Github has a built in diff tool that's part of the pull request feature, but you
 
 [![CodeSpaces](screenshots/codespaces_flatfile.png)](https://github.com/LinkedInLearning/hands-on-javascript-2499547)
 
-With a flat file repository, all the files are in a single branch, and there are folders for each video in our courses. This works great for simple projects and languages where a flat file system makes it easier to navigate through a project.
+With a flat file repository, all the files are in a single branch, and there are folders for each video in the courses. This works great for simple projects and languages where a flat file system makes it easier to navigate through a project.
 
 You can see a sample of one of our [flat file](https://github.com/LinkedInLearning/hands-on-javascript-2499547) course in Hands On: JavaScript.
 
 ### Exercise
-1. Go to the [hands-on-react](https://github.com/LinkedInLearning/hands-on-javascript-2499547) repository 
+1. Go to the **[hands-on-javascript](https://github.com/LinkedInLearning/hands-on-javascript-2499547)** repository 
 1. Look at file list
 1. Scroll and open the [02_03b](https://github.com/LinkedInLearning/hands-on-javascript-2499547/tree/main/02_03b) folder
 

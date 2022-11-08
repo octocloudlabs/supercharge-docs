@@ -3,6 +3,8 @@ id: customizing-04
 ---
 # Modifying Settings
 
+For your own projects, you'll want to create your own look and feel so that your videos feel consistent and are as readable as possible.
+
 If there's already a `settings.json` file in the `.vscode` folder, you can modify it to your liking. Let's try changing an existing file.
 
 ---
