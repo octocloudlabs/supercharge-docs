@@ -5,14 +5,14 @@ id: a-lab-5
 
 💡 **Instructor tip:**
 
->Visual Studio Code includes a full featured integrated terminal that conveniently starts at the root of your workspace. The integrated terminal can use various shells installed on the Codespace VM. **Bash** is the default, but there are others like **PowerShell**.
+>Visual Studio Code includes a full-featured integrated terminal that conveniently starts at the root of your workspace. The integrated terminal can use various shells installed on the Codespace VM. **Bash** is the default, but there are others like **PowerShell**.
 
 
 ### Steps
 
 The command line terminal (bash) is docked to the bottom of the editor. 
 
-If you do not see it press **Ctrl+Shift+\`** [PC] or **⌘+Shift+`** [Mac]
+If you do not see it, press **Ctrl+Shift+\`** [PC] or **⌘+Shift+`** [Mac]
  
 Note the custom command prompt `Universe-Workshop>`, this is specified in the configuration files.
 
@@ -21,7 +21,7 @@ Note the custom command prompt `Universe-Workshop>`, this is specified in the co
 3. Do another command here!
 
 💡 **Instructor tip:**
-> The learner can run a shell scripts from the browser. This let's you teach all manner of command-line base techniques or have them practice important commands.
+> The learner can run a shell scripts and most shell commands from the intergrated terminal. These will all run in the Codespaces environment. This lets you teach all manner of command-line based techniques or have them practice important commands.
 
 
 [Go to next lab ](/walt/lab-6.html)
