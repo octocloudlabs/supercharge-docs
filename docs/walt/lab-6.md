@@ -60,11 +60,11 @@ let url =
     c.clear("orange");
 ```
 
-* Save the file, switch browser tabs and refresh the page (F5).
+* Save the file, switch browser tabs, and refresh the page (F5) to see the changes you made.
 
 💡 **Instructor tip:**
 
-> Working with web applications in Codespaces, running a web server on the VM gives the learners instant access to a full featured web app. It can work well for front-end development or server side web application. Performance of browser based code is the same as running a real site.
+> Running a web server on the GitHub Codespaces gives the learners instant access to a full featured web app. It works well for front-end development and server side web applications. Performance of browser-based code is the same as running a real site.
 
 [Go to next lab ](/walt/lab-7.html)
 
