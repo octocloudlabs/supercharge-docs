@@ -1,9 +1,6 @@
 ---
 id: customizing-06
 ---
-
-[Go to previous lab section](/ray/lab-5.html)
-
 # Code Tour
 
 ![Code Tour](screenshots/2022-11-08_04-03-05.png)

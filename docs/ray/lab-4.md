@@ -1,9 +1,6 @@
 ---
 id: customizing-04
 ---
-
-[Go to previous lab section](/ray/lab-3.html)
-
 # Modifying Settings
 
 If there's already a `settings.json` file in the `.vscode` folder, you can modify it to your liking. Let's try changing an existing file.

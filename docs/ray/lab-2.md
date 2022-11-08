@@ -1,8 +1,6 @@
 ---
 id: customizing-02
 ---
-[Go to previous lab section](/ray/index.html)
-
 # How we Structure Repositories for Training
 
 We deliberately modify the state of the copy of Visual Studio Code to make the recording and playback experience more consistent. We do this in two places.

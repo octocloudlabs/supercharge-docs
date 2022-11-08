@@ -1,9 +1,6 @@
 ---
 id: customizing-03
 ---
-
-[Go to previous lab section](/ray/lab-2.html)
-
 # Understanding Repository Structures
 
 There are two ways we set up our repositories, flat file and multi-branch repositories.
