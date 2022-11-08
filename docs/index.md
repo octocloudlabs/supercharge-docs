@@ -51,6 +51,6 @@ You'll learn how to:
 
 ### Start the labs
 
-* <a href="/walt/">Section A</a>
-* <a href="/morten/">Section B</a>
-* <a href="/ray/">Section C</a>
+* <a href="/walt/">Section 1 - Manage CodeSpaces</a>
+* <a href="/morten/">Section 2 - LinkedIn Learning Lessons</a>
+* <a href="/ray/">Section 3 - Customize Codespaces</a>
