@@ -15,8 +15,8 @@ id: a-lab-7
 ### Change the URL
 >Note: URLs are case-sensitive on this codespace.
 
-1. In the Live Server tab, change the URL from `app.github.dev/TextParticles/index.html` 
-1. To `app.github.dev/GyroDodge/index.html`
+1. In the browser, switch to the tab showing the live server preview
+1. Change the URL to `app.github.dev/GyroDodge/index.html`
 1. This is a browser based game, you should be able to hear the game music and effects.
 
 When you done playing the game, check out the code in the `/workspaces/supercharge-canvas-fun/GyroDodge/js` folder.
