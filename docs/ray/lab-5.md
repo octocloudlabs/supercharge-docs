@@ -3,11 +3,9 @@ id: customizing-05
 ---
 # Devcontainers
 
-Codespaces uses a Virtual Machine in the cloud to run VSCode. You can customize how that machine behaves controlling, for example, which extensions are loaded, customizing the command prompt, installing software, running a script when the machine finishes loading or controlling machine level settings.
+Codespaces uses a Virtual Machine in the cloud to run VS Code. You can customize how that machine behaves controlling, for example, which extensions are loaded, customizing the command prompt, installing software, running a script when the machine finishes loading or controlling machine level settings.
 
-You do this through the use of a `.devcontainer/devcontainer.json` file.
-
-This file lets you control how your environment works. It can get quite complicated and be very extensive.
+You do this through the use of a `.devcontainer/devcontainer.json` file. This file lets you control how your environment works. 
 
 ## Exercise
 
@@ -18,13 +16,14 @@ This file lets you control how your environment works. It can get quite complica
 
 ## What We Change
 
-Our setup is pretty simple, we want to control three things.
+Our setup is pretty simple, we want to control three things:
 
 - Which extensions are installed in a workspace through the `"extensions": []` array
-- Manually modify the command prompt to make it shorter during the recording `"onCreateCommand"`
-- Optionally launch the npm start command when the codespace is created `"postStartCommand"`
+- Manually modify the command prompt to make it shorter during the recording with `"onCreateCommand"`
+- Optionally launch the npm start command when the codespace is created with `"postStartCommand"`
 
-## Finding the Unique Identifier
+## Auto-loading an Extension
+
 ![Marketplace](screenshots/2022-11-08_00-11-51.png)
 The best place to find extensions is the VSCode Marketplace.
 
