@@ -2,6 +2,8 @@
 id: customizing-03
 ---
 
+[Go to previous lab section](/ray/lab-2.html)
+
 # Understanding Repository Structures
 
 There are two ways we set up our repositories, flat file and multi-branch repositories.
@@ -49,3 +51,5 @@ You can see a sample of one of our [flat file](https://github.com/LinkedInLearni
 1. Go to the [hands-on-react](https://github.com/LinkedInLearning/hands-on-javascript-2499547) repository 
 1. Look at file list
 1. Scroll and open the [02_03b](https://github.com/LinkedInLearning/hands-on-javascript-2499547/tree/main/02_03b) folder
+
+[Go to next lab section](/ray/lab-4.html)

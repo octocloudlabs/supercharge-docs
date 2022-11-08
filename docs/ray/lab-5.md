@@ -2,6 +2,8 @@
 id: customizing-05
 ---
 
+[Go to previous lab section](/ray/lab-4.html)
+
 # Devcontainers
 
 The second way we modify our codespaces is through the use of a `.devcontainer/devcontainer.json` file.

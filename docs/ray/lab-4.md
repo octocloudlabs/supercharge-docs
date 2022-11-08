@@ -2,6 +2,8 @@
 id: customizing-04
 ---
 
+[Go to previous lab section](/ray/lab-3.html)
+
 # Modifying Settings
 
 If there's already a `settings.json` file in the `.vscode` folder, you can modify it to your liking. Let's try changing an existing file.
@@ -130,3 +132,5 @@ After some deliberation, here are our default settings for future reference.
   "liveServer.settings.donotVerifyTags": true
 }
 ```
+
+[Go to next lab section](/ray/lab-5.html)

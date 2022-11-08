@@ -1,6 +1,7 @@
 ---
 id: customizing-02
 ---
+[Go to previous lab section](/ray/index.html)
 
 # How we Structure Repositories for Training
 
@@ -31,3 +32,5 @@ Whatever you do, make sure the fonts are easy to read, even on a smaller screen.
 ## Recording Software
 
 If you're curious, we've used a number of applications for recording over the years like [Camtasia](https://www.techsmith.com/video-editor.html), [ScreenFlick](https://www.araelium.com/screenflick-mac-screen-recorder), [iShowU](https://www.shinywhitebox.com/ishowu-instant) and [Screenflow](https://www.telestream.net/screenflow/overview.htm).
+
+[Go to next lab section](/ray/lab-3.html)
