@@ -8,14 +8,14 @@ For this workshop we've selected three movies from the middle of the example cou
 
 ## How to follow along
 
-1. Find the first movie of the 3rd chapter, titled "Create Authenticator."
-2. Use the built in Git tool or terminal commands to checkout branch 03_01b ("b" for "beginning").
+1. Find the first movie of the third chapter, titled "Create Authenticator."
+2. Use the built-in Git tool or terminal commands to checkout branch `03_01b` ("b" for "beginning").
 3. Play the movie and follow the instructions, coding along in Codespaces.
-4. Optional: When you reach the end of the movie, you can compare your code to the code in branch 03_01e ("e" for "end").
-5. Stash your changes or commit them to either the 03_01b branch or a new branch using the built in Git tool or terminal commands.
-6. Find the next movie in the 3rd chapter.
-7. Checkout the branch for this movie: 03_02b.
-8. Repeat steps 3 through 8.
+4. Optional: When you reach the end of the movie, you can compare your code to the code in branch `03_01e` ("e" for "end").
+5. Stash your changes or commit them to either the `03_01b` branch or a new branch using the built-in Git tool or terminal commands.
+6. Find the next movie in the third chapter.
+7. Checkout the branch for this movie: `03_02b`.
+8. Repeat steps 3-8 for this movie and `03_02b`
 
 ## Background
 

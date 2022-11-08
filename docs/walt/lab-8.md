@@ -41,13 +41,13 @@ To restart the codespace, you can click on the codespace name, but let's look at
 <img src='/assets/img/a-lab-09-06.png' alt="lab image" class="img-lab" >
 
 
-On the page you can see additional information about the codespace. For example you can see the environment configuration  (2-core, 4GB RAM, 32GB).
+On the page, you can see additional information about the codespace. For example, you can see the environment configuration (2-core, 4GB RAM, 32GB).
 
 <img src='/assets/img/a-lab-09-07.png' alt="lab image" class="img-lab" >
 
 ### Option to delete the codespace
 
-There are costs associated with storing codespaces. Therefore it is wise to delete any codespaces you no longer need. You'll find the delete option in the **...** menu. While you could delete it now, we recommend keeping it during the workshop.
+There are costs associated with storing codespaces. Therefore, it is wise to delete any codespaces you no longer need. You'll find the Delete option in the **...** menu. While you could delete it now, we recommend keeping it during the workshop.
 
 <img src='/assets/img/a-lab-09-08.png' alt="lab image" class="img-lab" >
 
