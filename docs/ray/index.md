@@ -2,7 +2,7 @@
 id: customizing-01
 ---
 
-# Undersanding Codespaces
+# Understanding Codespaces
 
 In this section, you'll be learning how to customize your workspace to your needs, you'll also learn a little about the structure of how we create our own courses and how to use a great tool called [CodeTour]( https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour).
 
@@ -42,3 +42,5 @@ You might also notice some extra extensions have been loaded. If you look carefu
 1. Click to open the file and take a peek at a sample settings file.
 1. Look for the `devcontainer.json` file in the `.devcontainer` folder.
 1. Click to open the file and take a peek at a sample devcontainer file.
+
+[Go to next lab section](/ray/lab-2.html)
