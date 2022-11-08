@@ -5,7 +5,7 @@ id: customizing-04
 
 For your own projects, you'll want to create your own look and feel so that your training feels consistent and are as readable as possible.
 
-To make sure that the learner's computer matches your training, you can force certain settings to be on by default, so for example you can make sure line numbers are turned on, the minimap is off and that the activity bar is showing.
+To make sure that the learner's computer matches your training, you can define settings to be on by default, so for example you can make sure line numbers are turned on, the minimap is off and that the activity bar is showing.
 
 If there's already a `settings.json` file in the `.vscode` folder, you can modify it to your liking. Let's try changing an existing file.
 
@@ -30,11 +30,11 @@ It takes a second for the font to update. If you roll over the value on the JSON
 
 ![Intellisense](screenshots/2022-11-07_23-12-40.png)
 
-If you want to modify a setting, but you're not sure what the options are you can let intellisense help you.
+If you want to modify a setting, but you're not sure what the options are, you can let intellisense help you.
 
 ### Exercise
 1. Select `"Visual Studio Dark"` including the quotes
-1. Type `ctrl + space` to bring up intellisense
+1. Type `ctrl + space` to bring up IntelliSense
 1. Choose another theme from the list
 
 ---
@@ -45,7 +45,7 @@ Sometimes, it's better to just modify the settings using the menus.
 
 ![Theme from Menus](screenshots/2022-11-07_23-16-19.png)
 
-By changing the color theme here, notice that it changes the workspace settings as well.
+By changing the color theme here, notice that it changes the active workspace settings and the workspace file as well.
 
 ---
 
@@ -53,11 +53,11 @@ By changing the color theme here, notice that it changes the workspace settings 
 
 ![Alt text](screenshots/2022-11-07_23-20-01.png)
 
-If you don't know the name of a setting, you can just go to the settings menu.
+If you don't know the name of a setting, you can find them in the settings menu.
 
 ![Alt text](screenshots/2022-11-07_23-28-32.png)
 
-With this, you can have fine grained control over which version of the settings you're going to modify. My clicking on the workspace tab, you'll be affecting just this workspace, not your settings for other projects.
+By doing this, you can have fine grained control over which version of the settings you're going to modify. By clicking on the workspace tab, you'll be affecting just this workspace, not your settings for other projects.
 
 ---
 
@@ -67,17 +67,17 @@ Settings will often be overriden by the user's own options, so sometimes you wan
 
 `"workbench.activityBar.visible": true,`
 
-Such is the case with the activity bar. I often try to save a few pixels while code, so for me it's off by default, but when I record, I want to make sure it's on.
+Such is the case with the activity bar. I often try to save a few pixels while I'm  coding, so for me the activity bar is off normally, but when I record, I want to make sure it's on.
 
 
 ## Default Settings
 
-Just in case you're wondering, here's what the [default settings](https://code.visualstudio.com/docs/getstarted/settings#_default-settings) for Visual Studio Code look like.
+Just in case you're wondering, here's what the [default settings](https://code.visualstudio.com/docs/getstarted/settings#_default-settings) for Visual Studio look like.
 
 
 ## Settings Documentation
 
-To learn more about settings, check out the [online documentation](https://code.visualstudio.com/docs/getstarted/settings)
+To learn more about settings, check out the VS Code [online documentation](https://code.visualstudio.com/docs/getstarted/settings)
 
 ## Our Defaults
 
