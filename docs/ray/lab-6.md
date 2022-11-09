@@ -3,8 +3,9 @@ id: customizing-06
 ---
 # Code Tour
 
-![Code Tour](screenshots/2022-11-08_04-03-05.png)
 Another way to enhance your tutorials is to provide an onboarding experience that is annotated. You can do that with a special extension called [Code Tour](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour).
+
+![Code Tour](screenshots/2022-11-08_04-03-05.png)
 
 ---
 

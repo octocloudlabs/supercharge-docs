@@ -112,4 +112,4 @@ Here's the [full documentation](https://code.visualstudio.com/docs/remote/devcon
 ---
 
 ## Practice
-In the next session, we're going to be working with an extension called Code Tours. Try installing the extension by yourself.
+In the next session, we're going to be working with an extension called CodeTour. Try installing the extension by yourself.
