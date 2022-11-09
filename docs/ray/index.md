@@ -43,4 +43,4 @@ You might also notice some extra extensions have been loaded. If you look carefu
 1. Look for the `devcontainer.json` file in the `.devcontainer` folder.
 1. Click to open the file and take a peek at a sample devcontainer file.
 
-[Go to next lab section](/ray/lab-2.html)
+[Before We Record](/ray/lab-2.html)

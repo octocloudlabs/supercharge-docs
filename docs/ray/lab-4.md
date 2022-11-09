@@ -1,7 +1,7 @@
 ---
 id: customizing-04
 ---
-# Modifying Settings
+# Customizing the Workspace
 
 For your own projects, you'll want to create your own look and feel so that your training feels consistent and are as readable as possible.
 
@@ -74,11 +74,6 @@ Such is the case with the activity bar. I often try to save a few pixels while I
 
 Just in case you're wondering, here's what the [default settings](https://code.visualstudio.com/docs/getstarted/settings#_default-settings) for Visual Studio look like.
 
-
-## Settings Documentation
-
-To learn more about settings, check out the VS Code [online documentation](https://code.visualstudio.com/docs/getstarted/settings)
-
 ## Our Defaults
 
 After some deliberation, here are our default settings for future reference.
@@ -114,4 +109,4 @@ After some deliberation, here are our default settings for future reference.
 }
 ```
 
-[Go to next lab section](/ray/lab-5.html)
+[Customizing your Virtual Machine](/ray/lab-5.html)

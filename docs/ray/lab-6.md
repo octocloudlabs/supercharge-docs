@@ -1,7 +1,7 @@
 ---
 id: customizing-06
 ---
-# Code Tour
+# Creating Self Guided Tours
 
 Another way to enhance your tutorials is to provide an onboarding experience that is annotated. You can do that with an extension called [Code Tour](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour). You should have installed it in the previous lab.
 

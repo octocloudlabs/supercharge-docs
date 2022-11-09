@@ -3,7 +3,7 @@ id: customizing-03
 ---
 # Understanding Repository Structures
 
-When you're creating content, it's useful to establish a naming convention that lets the user know what state the code in is for each video. We find that using branches in a non-traditional way helps us keep things organized. It allows the learner to drop into any stage of the course.
+When you're creating content, it's useful to establish a naming convention that lets the user know what state the code in is for each video. One way we do that is by using branches in a non-traditional way that helps us keep things organized. It allows the learner to drop into any stage of the course.
 
 ---
 
@@ -35,13 +35,17 @@ Github has a built in diff tool that's part of the pull request feature, but you
 
 [![Compare](screenshots/codespaces_compare.png)](https://github.com/octocloudlabs/supercharge-customize/compare/03_02b..03_02e)
 
+I also use a diff tool like this ([Kaleidoscope](https://kaleidoscope.app/)) while I'm recording to make sure that I know what my target is for each video while I'm recording. I can quickly check if what I typed is exactly what I was supposed to type. 
+
 ---
 
 ## Flat File Repositories
 
+There's another way you can organize repositories, and that's with a flat file structure. With a flat file repository, all the files are in a single branch.
+
 [![CodeSpaces](screenshots/codespaces_flatfile.png)](https://github.com/LinkedInLearning/hands-on-javascript-2499547)
 
-With a flat file repository, all the files are in a single branch, and there are folders for each video in the courses. This works great for simple projects and languages where a flat file system makes it easier to navigate through a project.
+There are folders for each video in the course. This works great for simple projects and languages where a flat file system makes it easier to do the exercises.
 
 You can see a sample of one of our [flat file](https://github.com/LinkedInLearning/hands-on-javascript-2499547) course in Hands On: JavaScript.
 
@@ -50,4 +54,4 @@ You can see a sample of one of our [flat file](https://github.com/LinkedInLearni
 1. Look at file list
 1. Scroll and open the [02_03b](https://github.com/LinkedInLearning/hands-on-javascript-2499547/tree/main/02_03b) folder
 
-[Go to next lab section](/ray/lab-4.html)
+[Customizing the Workspace](/ray/lab-4.html)

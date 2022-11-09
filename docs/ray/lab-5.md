@@ -1,7 +1,7 @@
 ---
 id: customizing-05
 ---
-# Devcontainers
+# Customizing your Virtual Machine
 
 Codespaces uses a Virtual Machine in the cloud to run VS Code. You can customize how that machine behaves controlling, for example, which extensions are loaded, customizing the command prompt, installing software, running a script when the machine finishes loading or controlling machine level settings.
 
@@ -22,16 +22,11 @@ Our setup is pretty simple, we want to control three things:
 - Manually modify the command prompt to make it shorter during the recording with `"onCreateCommand"`
 - Optionally launch the npm start command when the codespace is created with `"postStartCommand"`
 
-## Auto-loading an Extension
+## Different Ways to Find and Load Extensions
 
-Ex
-
-
-The best place to find extensions is the VS Code Marketplace.
+One of the best places to look for extensions is the VS Code Marketplace.
 
 ![Marketplace](screenshots/2022-11-08_00-11-51.png)
-
-![Alt text](screenshots/2022-11-08_00-21-40.png)
 
 ### Exercise
 1. Go to the [VSCode Marketplace](https://marketplace.visualstudio.com/vscode)
@@ -40,6 +35,8 @@ The best place to find extensions is the VS Code Marketplace.
 1. Scroll down and look for the Unique Identifier under More Info
 1. Copy the unique identifier
 1. Paste into the extensions array
+
+![Alt text](screenshots/2022-11-08_00-21-40.png)
 
 Whenever you modify the `devcontainer.json` file, Codespaces will ask if you want to rebuild the container. If you're not done making changes, you can ignore or close the notification. It might take a minute or so to rebuild the container.
 
@@ -82,7 +79,7 @@ In order for a theme to be automatically loaded with your project, the extension
 
 ---
 
-## Devcontainer Walkthrough
+## Devcontainer Walkthrough 
 
 You can also have Codespaces suggest a `devcontainer.json` file for you with some prebuilt settings. The community has created a lot of these files for you to use.
 
@@ -113,3 +110,5 @@ Here's the [full documentation](https://code.visualstudio.com/docs/remote/devcon
 
 ## Practice
 In the next session, you're going to be working with an extension called CodeTour. Try installing the extension by yourself before continuing.
+
+Make sure you've added the Code Tour extension before moving on to [Creating Self Guided Tours](/ray/lab-6.html)
