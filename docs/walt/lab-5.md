@@ -16,7 +16,7 @@ If you do not see it, press **Ctrl+Shift+\`** [PC] or **⌘+Shift+`** [Mac]
  
 Note the custom command prompt `Universe-Workshop>`, this is specified in the configuration files.
 
-1. Run `ls` command to see a list of files.
+1. Run `ls -la` command to see a list of files.
 2. Notice that the file folder defaults to the root of the workspace.
 3. Do another command here!
 
