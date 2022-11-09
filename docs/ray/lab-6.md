@@ -19,18 +19,14 @@ Although the repository has a lot of branches, the codespace doesn't have inform
 ### Exercise
 
 1. Open the terminal
-1. run the following command:
-
-```bash
-git pull --all
-``` 
+1. Run the following command `git pull --all` 
 
 ---
 
 ## Open the `codetour` Branch
 ![Switch to codetour branch](screenshots/2022-11-08_04-45-02.png)
 
-The CodeTour extension adds a tab to your sidebar with some new features.
+The CodeTour extension adds a tab at the bottom of your sidebar with some new features.
 
 Let's go ahead and record a tour.
 
