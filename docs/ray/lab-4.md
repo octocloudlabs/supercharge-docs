@@ -26,19 +26,6 @@ It takes a second for the font to update. If you roll over the value on the JSON
 
 ---
 
-## Letting IntelliSense Help
-
-![Intellisense](screenshots/2022-11-07_23-12-40.png)
-
-If you want to modify a setting, but you're not sure what the options are, you can let intellisense help you.
-
-### Exercise
-1. Select `"Visual Studio Dark"` including the quotes
-1. Type `ctrl + space` to bring up IntelliSense
-1. Choose another theme from the list
-
----
-
 ## By Modifying Menus
 
 Sometimes, it's better to just modify the settings using the menus.

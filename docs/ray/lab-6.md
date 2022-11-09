@@ -160,3 +160,5 @@ A tour is really just a `JSON` document inside a `.tours` folder. You can take a
 ## Other Features
 
 Codetour has a lot of other features, including the ability to run terminal and other commands, run a series of commands (to, for example, pull up a browser URL), and to set up tours that are inside other tours. For more information, check the [documentation](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour).
+
+[Bonus: Creating a LinkedIn Learning COurse](/ray/lab-7.html)
