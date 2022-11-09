@@ -135,7 +135,7 @@ If you add a title `#` to the message, it will also become the title for the tou
 
 ## Insert the Code Block
 
-We often ask students to type in some code, you can let CodeTour automatically insert some complex codeblocks into a line.
+Instead of asking students to type in code, you can let CodeTour automatically insert codeblocks into a line.
 
 ![Alt text](screenshots/2022-11-08_06-50-54.png)
 
