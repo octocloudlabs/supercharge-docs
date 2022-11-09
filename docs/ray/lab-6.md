@@ -153,12 +153,10 @@ When you're done with a tour, you can use the `Finish Tour` button. It's availab
 
 ## The Tour Files
 ![Alt text](screenshots/2022-11-08_07-02-04.png)
-A tour is really just a json document inside a tours folder. You can take a peek at the file in the editor and modify it there. However, you might need to restart the tour to see changes.
+A tour is really just a `JSON` document inside a `.tours` folder. You can take a peek at the file in the editor and modify it there. However, you might need to restart the tour to see changes.
 
 ---
 
 ## Other Features
 
-Codetour has a lot of other features, including the ability to run terminal and other commands, run a series of commands to, for example, pull up a browser URL, set up tours that are inside other tours. For more information, check the [documentation](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour).
-
-[Go to next lab section](/ray/lab-6.html)
+Codetour has a lot of other features, including the ability to run terminal and other commands, run a series of commands (to, for example, pull up a browser URL), and to set up tours that are inside other tours. For more information, check the [documentation](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour).
