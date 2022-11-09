@@ -3,7 +3,7 @@ id: customizing-06
 ---
 # Code Tour
 
-Another way to enhance your tutorials is to provide an onboarding experience that is annotated. You can do that with an extension called [Code Tour](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour).
+Another way to enhance your tutorials is to provide an onboarding experience that is annotated. You can do that with an extension called [Code Tour](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour). You should have installed it in the previous lab.
 
 ![Code Tour](screenshots/2022-11-08_04-03-05.png)
 
@@ -19,7 +19,7 @@ Although the repository has a lot of branches, the codespace doesn't have inform
 ### Exercise
 
 1. Open the terminal
-1. Run the following command `git pull --all` 
+1. Run the command `git pull --all` 
 
 ---
 
@@ -47,7 +47,7 @@ Let's go ahead and record a tour.
 
 ![Alt text](screenshots/2022-11-08_05-06-15.png)
 
-You'll notice that there's a new step on the tour and that your message was added to the file as a popup. There are some new controls available.
+You'll notice that there's a new step on the tour and that your message was added to the file as a CodeTour popup. There are some new controls available.
 
 
 Try clicking on the pencil icon to edit the message.
@@ -55,7 +55,7 @@ Try clicking on the pencil icon to edit the message.
 ---
 
 ## Change the Line Number
-You can also change the line number that the popup appears on.
+You can also change the line number that the CodeTour popup appears on.
 
 Roll over the message, then click on the three dots.
 
@@ -72,7 +72,7 @@ Now, you can type in the line number to assign this message to a new line. Since
 You can add steps in the same file or another file.
 
 
-1. In the src folder, open the App.jsx file.
+1. In the src folder, open the `App.jsx` file.
 1. Click on the plus sign next to line 1.
 1. Add a message that says "The App.jsx file is the main component in our application."
 ![Annotate new file](screenshots/2022-11-08_05-19-12.png)
@@ -81,9 +81,9 @@ When you add this step, the tour shows you the second step and there is now a ne
 
 Use the arrows to go from one step to another. 
 
-**Note:** Sometimes the annotations will collapse, look by the line number for an icon to expand the annotation.
+**Note:** Sometimes the annotations will collapse, look next to the line number for an icon to expand the annotation.
 
-You can now also change the order that the annotation appears in, either in the Code Tour tab or in the `...` menu. Try changing the order of the two steps.
+You can now also change the order the annotation appears in, either in the Code Tour tab or in the `...` menu. Try changing the order of the two steps.
 
 ![Changing Order](screenshots/2022-11-08_05-28-28.png)
 
@@ -95,18 +95,18 @@ You can also add an entire selection group as a step instead of a single line.
 
 ![Alt text](screenshots/2022-11-08_06-25-16.png)
 
-1. Select a few lines in the editor.
+1. Select a few lines in the editor
 1. Right click on the selection
-1. Choose `Add CodeTour Step` from the menu.
+1. Choose `Add CodeTour Step` from the menu
 
 ---
 
 ## Changing Titles
 
-The automated Titles aren't always the best, so you can change them. 
+The automated titles aren't always the best, so you can change them. 
 
 1. Right click on a step's title 
-1. Change the title of the step.
+1. Change the title of the step
 
 ![Alt text](screenshots/2022-11-08_06-28-39.png)
 
@@ -116,7 +116,7 @@ The automated Titles aren't always the best, so you can change them.
 
 You have the full power of markdown inside the messages. You can add links, images, and even code blocks.
 
-If you add a title ## to the message, it will also become the title for the tour automatically.
+If you add a title `#` to the message, it will also become the title for the tour automatically.
 
 ---
 
@@ -124,12 +124,12 @@ If you add a title ## to the message, it will also become the title for the tour
 
 ![Alt text](screenshots/2022-11-08_06-42-22.png)
 
-1. Select line 29 in the code.
+1. Select line 29 in the code
 1. Cut the line into the clipboard
-1. Add a new step on line 29.
-1. Start a code bock with three backticks.
-1. You can add a shortcode to the backticks for proper syntax highlighting,so we can add `jsx` in this case.
-1. Paste the line you cut into the code block.
+1. Add a new step on line 29
+1. Start a code block with three backticks
+1. You can add the language type next to the first backticks for syntax highlighting, so we can add `jsx` in this case
+1. Paste the line you cut into the code block
 
 ---
 
