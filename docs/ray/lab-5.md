@@ -84,20 +84,22 @@ In order for a theme to be automatically loaded with your project, the extension
 
 ## Devcontainer Walkthrough
 
-You can also have Codespaces suggest a devcontainer.json file for you with some settings. The community has created a lot of these files for you to use.
+You can also have Codespaces suggest a `devcontainer.json` file for you with some prebuilt settings. The community has created a lot of these files for you to use.
 
 ![Devcontainer Walkthrough](screenshots/2022-11-08_00-53-56.png)
 
-Alpine, for example is a very small Linux distribution. It's very fast and lightweight. It's also very popular in the Docker community.
+Alpine, for example, is a very small Linux distribution. It's very fast and lightweight. It's also very popular in the Docker community.
 
 ![Alpine](screenshots/2022-11-08_00-57-09.png)
+
+### Exercise
 
 1. Click on the codespaces button at the bottom left of the screen
 1. Choose "Add DevContainer Configuration Files..."
 1. Choose Alpine
 1. Choose a Version
 1. Add options
-1. Allow overrite
+1. Allow overwrite
 
 You can take a peek at what was installed and undo the changes if you don't like them.
 
