@@ -3,7 +3,7 @@ id: customizing-06
 ---
 # Code Tour
 
-Another way to enhance your tutorials is to provide an onboarding experience that is annotated. You can do that with a special extension called [Code Tour](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour).
+Another way to enhance your tutorials is to provide an onboarding experience that is annotated. You can do that with an extension called [Code Tour](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour).
 
 ![Code Tour](screenshots/2022-11-08_04-03-05.png)
 
@@ -22,12 +22,12 @@ Although the repository has a lot of branches, the codespace doesn't have inform
 1. run the following command:
 
 ```bash
-`git pull --all`
+git pull --all
 ``` 
 
 ---
 
-## Open the codetour Branch
+## Open the `codetour` Branch
 ![Switch to codetour branch](screenshots/2022-11-08_04-45-02.png)
 
 The CodeTour extension adds a tab to your sidebar with some new features.
