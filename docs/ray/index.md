@@ -21,13 +21,6 @@ In this section, you'll learn how to customize your workspace to your needs, you
 
 ---
 
-## Warnings
-![Startup Warnings](screenshots/codespace_start_warnings.png)
-
-It might take a while for the codespace to finish loading. Often, it's because extensions have to be loaded, so keep an eye out for the clock icon as well as small popups, which you can safely ignore.
-
----
-
 ## Take a Look Around
 
 ![CodeSpaces](screenshots/codespace_start.png)
