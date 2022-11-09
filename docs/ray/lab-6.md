@@ -139,16 +139,15 @@ Instead of asking students to type in code, you can let CodeTour automatically i
 
 ![Alt text](screenshots/2022-11-08_06-50-54.png)
 
-1. Pull up the current tour step.
-
-Click on insert code.
+1. Pull up the current tour step
+1. Click on insert code
 
 ---
 
 ## Finishing the Tour
 ![Finish the tour](screenshots/2022-11-08_06-58-19.png)
 
-When you're done with a tour, you can use the `Finish Tour` button. Its available in several places in the interface.
+When you're done with a tour, you can use the `Finish Tour` button. It's available in several places in the interface.
 
 ---
 
