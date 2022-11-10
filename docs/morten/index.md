@@ -10,7 +10,7 @@ LinkedIn Learning has spent the past one year developing new course types and le
 
 Our example is Angie Jones' course "Hands-On Instruction: Java," one of 50+ new courses we are publishing today with GitHub Codespaces support.
 
-If you have not already done so, please fork the [LinkedIn Learning repository](#) for this section of the workshop.
+
 
 ## Initial Setup
 
