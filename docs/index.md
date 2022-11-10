@@ -4,6 +4,7 @@ id: welcome
 
 ---
 
+
 ## Welcome
 Get ready for the hands-on labs in the **Supercharge your onboarding and developer training with GitHub Codespaces** workshop. 
 
