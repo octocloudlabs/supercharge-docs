@@ -8,9 +8,9 @@ Today you will be using Codespaces in the **octocloudlabs** organization. You sh
 
 ### Why do you need to be in the organization
 
-Codespaces is rolling out to everyone. It will take several days for it to be available to everyone.  To ensure that you can use Codespaces today, GitHub has preallocated codespace instances in the octocloudlabs, so if you in the org, you can do the labs.
+Codespaces is rolling out to everyone. It will take several days for it to be available to everyone.  To ensure that you can use Codespaces today, GitHub has preallocated codespace instances in the octocloudlabs organization. So, if you in the org, you can do the labs.
 
-This is a workaround for today's workshop, in the future Codespaces will just work for everyone.
+This is a workaround is needed for you to complete  today's workshop, in the future Codespaces will just work for everyone.
 
 ### Fork the lab repositories
 
@@ -27,4 +27,3 @@ Next week, after the conference is over, you can find the repositories at <a hre
 >Instructors create a repository for the training. The learners use the repository. That way they can see the example files and edit them to match the instruction. Having the students fork the training repo allows them to save changes as they progress through the training.
 
 [Go to next lab](/walt/lab-2.html)
- a
