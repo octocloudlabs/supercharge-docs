@@ -22,7 +22,7 @@ You created the codespace on the supercharge-canvas-fun `master` branch. In Visu
 
 2. Navigate to the TextParticles folder
 3. Open the `index.html` file in the editor.
-4. Open the `src/index.js` file in the editor.
+4. Open the `src/js/index.js` file in the editor.
 
 ### Start Live Server and view files
 
