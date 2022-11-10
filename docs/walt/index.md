@@ -4,7 +4,7 @@ id: a-lab-1
 
 ### Workshop information
 
-Today you will be using Codespaces in the **octocloudlabs** organization. You should have recieved an email invite to the organization.  If not, see our facilitator (Scott is sitting in the front row.)
+Today you will be using Codespaces in the **octocloudlabs** organization. You should have received an email invite to the organization.  If not, see our facilitator (Scott is sitting in the front row.)
 
 ### Why do you need to be in the organization
 

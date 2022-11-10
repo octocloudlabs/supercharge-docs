@@ -42,7 +42,7 @@ Whenever you modify the `devcontainer.json` file, Codespaces will ask if you wan
 
 ![Rebuilding](screenshots/2022-11-08_00-23-26.png)
 
-The tabout extension lets you move the cursor out of quotes using the tab key. After the container is rebuilt, place your cursor inside one of the double quotes in the `devcontainer.json` file and hit tab.
+The **tabout** extension lets you move the cursor out of quotes using the tab key. After the container is rebuilt, place your cursor inside one of the double quotes in the `devcontainer.json` file and hit tab.
 
 Simple, but pretty handy.
 
