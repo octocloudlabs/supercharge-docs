@@ -20,7 +20,7 @@ Note: Syncing is only allowed to a repo that you own. In the GitHub world, this 
 
 In the labs you'll work with three repositories that we've created.
 
-Next week, after the conference is over, you can find the repositories at <a href="httpw:/github.com/linkedinlearning/">GitHub.com/LinkedInLearning<a/>
+Next week, after the conference is over, you can find the repositories at <a href="https://github.com/linkedinlearning/">GitHub.com/LinkedInLearning<a/>
 
 💡 **Instructor tip:**
 
