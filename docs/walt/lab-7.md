@@ -21,5 +21,5 @@ id: a-lab-7
 
 When you are done playing the game, check out the code in the `/workspaces/supercharge-canvas-fun/GyroDodge/js` folder.
 
-[Go to next lab ](/walt/lab-8.html)
+[Go to next lab ](../walt/lab-8.html)
 

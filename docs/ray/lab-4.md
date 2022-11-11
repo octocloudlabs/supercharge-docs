@@ -96,4 +96,4 @@ After some deliberation, here are our default settings for future reference.
 }
 ```
 
-[Customizing your Virtual Machine](/ray/lab-5.html)
+[Customizing your Virtual Machine](../ray/lab-5.html)

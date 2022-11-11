@@ -25,4 +25,4 @@ Note the custom command prompt `Universe-Workshop>`, this is specified in the co
 > The learner can run a shell scripts and most shell commands from the integrated terminal. These will all run in the Codespaces environment. This lets you teach all manner of command-line based techniques or have them practice important commands.
 
 
-[Go to next lab ](/walt/lab-6.html)
+[Go to next lab ](../walt/lab-6.html)

@@ -111,4 +111,4 @@ Here's the [full documentation](https://code.visualstudio.com/docs/remote/devcon
 ## Practice
 In the next session, you're going to be working with an extension called CodeTour. Try installing the extension by yourself before continuing.
 
-Make sure you've added the Code Tour extension before moving on to [Creating Self Guided Tours](/ray/lab-6.html)
+Make sure you've added the Code Tour extension before moving on to [Creating Self Guided Tours](../ray/lab-6.html)

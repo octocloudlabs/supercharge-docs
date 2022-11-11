@@ -19,4 +19,4 @@ We generally record in HD (1920x1080) and try to use monitors with 2x density, s
 
 The font size and other settings in the `.vscode/settings.json` file are adjusted for these proportions.
 
-[Understanding Repository Structures](/ray/lab-3.html)
+[Understanding Repository Structures](../ray/lab-3.html)

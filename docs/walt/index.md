@@ -26,4 +26,4 @@ Next week, after the conference is over, you can find the repositories at <a hre
 
 >Instructors create a repository for the training. The learners use the repository. That way they can see the example files and edit them to match the instruction. Having the students fork the training repo allows them to save changes as they progress through the training. Note, GitHub will prompt the student to create a fork if they don't have one yet. 
 
-[Go to next lab](/walt/lab-2.html)
+[Go to next lab](../walt/lab-2.html)

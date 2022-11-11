@@ -13,7 +13,7 @@ You'll see how to customize this list of extensions later in the workshop!
 
 ### Let's look
 
-<img src='/assets/img/a-lab-04-01.png' alt="lab image" class="img-lab" >
+<img src='../assets/img/a-lab-04-01.png' alt="lab image" class="img-lab" >
 
 1. In the Activity bar, click the Extensions button.
 2. In the Extensions panel you'll see six extensions.
@@ -27,5 +27,5 @@ You'll see how to customize this list of extensions later in the workshop!
 2. Scroll though the list of available themes and choose one of the **Winter is Coming** themes.
 
 
-[Go to next lab ](/walt/lab-5.html)
+[Go to next lab ](../walt/lab-5.html)
 

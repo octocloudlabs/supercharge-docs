@@ -20,13 +20,13 @@ Any saved changes in your codespace will still be available when you next start 
 
 2. Find and click the green Code button, then select the Codespaces tab, and click the small + icon.  This will create a **new** codespace on the default branch (Main/Master).
 
-<img src='/assets/img/a-lab-01-01.png' alt="lab image" class="img-lab" >
+<img src='../assets/img/a-lab-01-01.png' alt="lab image" class="img-lab" >
 
 ### B. Wait! 
 
 Creating the codespace takes a minute or so. 
 	
-<img src='/assets/img/a-lab-01-02.png' alt="lab image" class="img-lab" >
+<img src='../assets/img/a-lab-01-02.png' alt="lab image" class="img-lab" >
 	
 That's because there is a lot of actions happening. Here's the details if you are interested.
 
@@ -49,5 +49,5 @@ Checkout the new URL in the browser address bar (it ends with .github.dev). This
 
 https://[username]-[random-two-word-name]-[hash].github.dev/
 
-[Go to next lab ](/walt/lab-3.html)
+[Go to next lab ](../walt/lab-3.html)
 

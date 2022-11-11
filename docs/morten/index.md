@@ -23,4 +23,4 @@ Booting up Codespaces for this course, the learner is placed in a pre-configured
 
 In this first lesson, the instructor helps the learner through the final steps to prepare for hands-on practice including installing a necessary extension (This extension cannot be pre-installed by Codespaces instead, Codespaces is configured to recommend the extension) and starting up the Java project.
 
-[Go to next lab section](/morten/lab-2.html)
+[Go to next lab section](../morten/lab-2.html)

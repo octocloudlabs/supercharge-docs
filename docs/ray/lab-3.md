@@ -54,4 +54,4 @@ You can see a sample of one of our [flat file](https://github.com/LinkedInLearni
 1. Look at file list
 1. Scroll and open the [02_03b](https://github.com/LinkedInLearning/hands-on-javascript-2499547/tree/main/02_03b) folder
 
-[Customizing the Workspace](/ray/lab-4.html)
+[Customizing the Workspace](../ray/lab-4.html)

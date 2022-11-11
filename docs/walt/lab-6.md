@@ -18,7 +18,7 @@ With just a couple of clicks, Live Server lets you see your page live in another
 You created the codespace on the supercharge-canvas-fun `master` branch. In Visual Studio Code you can see all the files from that branch in the Explorer.
 
 1. In the Activity Bar click the Explorer button
-<img src='/assets/img/a-lab-10.png' alt="lab image" class="img-lab" >
+<img src='../assets/img/a-lab-10.png' alt="lab image" class="img-lab" >
 
 2. Navigate to the TextParticles folder
 3. Open the `index.html` file in the editor.
@@ -66,5 +66,5 @@ let url =
 
 > Running a web server on the GitHub Codespaces gives the learners instant access to a full featured web app. It works well for front-end development and server side web applications. Performance of browser-based code is the same as running a real site.
 
-[Go to next lab ](/walt/lab-7.html)
+[Go to next lab ](../walt/lab-7.html)
 
