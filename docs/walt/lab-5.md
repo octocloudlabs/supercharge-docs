@@ -19,7 +19,7 @@ Note the custom command prompt `Universe-Workshop>`, this is specified in the co
 1. Run `ls -la` command to see a list of files.
 2. Notice that the file folder defaults to the root of the workspace.
 3. Run `gh` to see the GitHub Api commands
-4. Run `npm canvas-confetti`, this show that you can install a npm package from the CLI.  
+4. Run `npm install canvas-confetti`, this show that you can install a npm package from the CLI.  
 5. 
 💡 **Instructor tip:**
 > The learner can run a shell scripts and most shell commands from the integrated terminal. These will all run in the Codespaces environment. This lets you teach all manner of command-line based techniques or have them practice important commands.
