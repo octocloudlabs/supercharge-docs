@@ -10,7 +10,7 @@ Today you will be using Codespaces in the **octocloudlabs** organization. You sh
 
 Codespaces is rolling out to everyone. It will take several days for it to be available to everyone.  To ensure that you can use Codespaces today, GitHub has preallocated codespace instances in the octocloudlabs organization. So, if you in the org, you can do the labs.
 
-This is a workaround is needed for you to complete  today's workshop, in the future Codespaces will just work for everyone.
+This workaround is needed for you to complete  today's workshop, in the future Codespaces will just work for everyone.
 
 ### Fork the lab repositories
 
